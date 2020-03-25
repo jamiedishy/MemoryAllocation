@@ -152,9 +152,9 @@ int main()
             }
         }
 
-        fprintf(physical_address_file_pointer, "Logical address: %d", virtual_address);
-        fprintf(physical_address_file_pointer, " Phyiscal address: %d", physical_address);
-        fprintf(physical_address_file_pointer, " Value: %d\n", value_in_physical_memory);
+        fprintf(physical_address_file_pointer, "Logical address: %d, Physical address: %d, Value: %d\n", virtual_address, physical_address, value_in_physical_memory);
+        // fprintf(physical_address_file_pointer, " Physical address: %d", physical_address);
+        // fprintf(physical_address_file_pointer, " Value: %d\n", value_in_physical_memory);
     }
     printf("Page Faults = %d\n", page_faults);
     printf("TLB Hits = %d\n", tlb_hits);

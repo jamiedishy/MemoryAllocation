@@ -2,6 +2,7 @@
 echo "Compiling"
 gcc -w -o mmu mmu.c
 echo "Running"
-./mmu 
-echo "Comparing"
-diff output.csv correct.txt
+./mmu
+#./mmu BACKING_STORE.bin addresses.txt > out.txt
+#echo "Comparing"
+#diff out.txt correct.txt
