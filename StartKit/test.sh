@@ -1,7 +1,7 @@
 #!/bin/bash -e
 echo "Compiling"
-gcc mmu.c -o mmu
+gcc -w -o mmu mmu.c
 echo "Running"
-./mmu BACKING_STORE.bin addresses.txt > out.txt
+./mmu 
 echo "Comparing"
-diff out.txt correct.txt
+diff output.csv correct.txt

@@ -1,1000 +1,1002 @@
-logical: 16916, physical: 20, byte value: 0
-logical: 62493, physical: 285, byte value: 0
-logical: 30198, physical: 758, byte value: 29
-logical: 53683, physical: 947, byte value: 108
-logical: 40185, physical: 1273, byte value: 0
-logical: 28781, physical: 1389, byte value: 0
-logical: 24462, physical: 1678, byte value: 23
-logical: 48399, physical: 1807, byte value: 67
-logical: 64815, physical: 2095, byte value: 75
-logical: 18295, physical: 2423, byte value: -35
-logical: 12218, physical: 2746, byte value: 11
-logical: 22760, physical: 3048, byte value: 0
-logical: 57982, physical: 3198, byte value: 56
-logical: 27966, physical: 3390, byte value: 27
-logical: 54894, physical: 3694, byte value: 53
-logical: 38929, physical: 3857, byte value: 0
-logical: 32865, physical: 4193, byte value: 0
-logical: 64243, physical: 4595, byte value: -68
-logical: 2315, physical: 4619, byte value: 66
-logical: 64454, physical: 5062, byte value: 62
-logical: 55041, physical: 5121, byte value: 0
-logical: 18633, physical: 5577, byte value: 0
-logical: 14557, physical: 5853, byte value: 0
-logical: 61006, physical: 5966, byte value: 59
-logical: 62615, physical: 407, byte value: 37
-logical: 7591, physical: 6311, byte value: 105
-logical: 64747, physical: 6635, byte value: 58
-logical: 6727, physical: 6727, byte value: -111
-logical: 32315, physical: 6971, byte value: -114
-logical: 60645, physical: 7397, byte value: 0
-logical: 6308, physical: 7588, byte value: 0
-logical: 45688, physical: 7800, byte value: 0
-logical: 969, physical: 8137, byte value: 0
-logical: 40891, physical: 8379, byte value: -18
-logical: 49294, physical: 8590, byte value: 48
-logical: 41118, physical: 8862, byte value: 40
-logical: 21395, physical: 9107, byte value: -28
-logical: 6091, physical: 9419, byte value: -14
-logical: 32541, physical: 9501, byte value: 0
-logical: 17665, physical: 9729, byte value: 0
-logical: 3784, physical: 10184, byte value: 0
-logical: 28718, physical: 1326, byte value: 28
-logical: 59240, physical: 10344, byte value: 0
-logical: 40178, physical: 1266, byte value: 39
-logical: 60086, physical: 10678, byte value: 58
-logical: 42252, physical: 10764, byte value: 0
-logical: 44770, physical: 11234, byte value: 43
-logical: 22514, physical: 11506, byte value: 21
-logical: 3067, physical: 11771, byte value: -2
-logical: 15757, physical: 11917, byte value: 0
-logical: 31649, physical: 12193, byte value: 0
-logical: 10842, physical: 12378, byte value: 10
-logical: 43765, physical: 12789, byte value: 0
-logical: 33405, physical: 12925, byte value: 0
-logical: 44954, physical: 13210, byte value: 43
-logical: 56657, physical: 13393, byte value: 0
-logical: 5003, physical: 13707, byte value: -30
-logical: 50227, physical: 13875, byte value: 12
-logical: 19358, physical: 14238, byte value: 18
-logical: 36529, physical: 14513, byte value: 0
-logical: 10392, physical: 14744, byte value: 0
-logical: 58882, physical: 14850, byte value: 57
-logical: 5129, physical: 15113, byte value: 0
-logical: 58554, physical: 15546, byte value: 57
-logical: 58584, physical: 15576, byte value: 0
-logical: 27444, physical: 15668, byte value: 0
-logical: 58982, physical: 14950, byte value: 57
-logical: 51476, physical: 15892, byte value: 0
-logical: 6796, physical: 6796, byte value: 0
-logical: 21311, physical: 9023, byte value: -49
-logical: 30705, physical: 16369, byte value: 0
-logical: 28964, physical: 16420, byte value: 0
-logical: 41003, physical: 8747, byte value: 10
-logical: 20259, physical: 16675, byte value: -56
-logical: 57857, physical: 3073, byte value: 0
-logical: 63258, physical: 16922, byte value: 61
-logical: 36374, physical: 14358, byte value: 35
-logical: 692, physical: 17332, byte value: 0
-logical: 43121, physical: 17521, byte value: 0
-logical: 48128, physical: 17664, byte value: 0
-logical: 34561, physical: 17921, byte value: 0
-logical: 49213, physical: 8509, byte value: 0
-logical: 36922, physical: 18234, byte value: 36
-logical: 59162, physical: 10266, byte value: 57
-logical: 50552, physical: 18552, byte value: 0
-logical: 17866, physical: 9930, byte value: 17
-logical: 18145, physical: 18913, byte value: 0
-logical: 3884, physical: 18988, byte value: 0
-logical: 54388, physical: 19316, byte value: 0
-logical: 42932, physical: 19636, byte value: 0
-logical: 46919, physical: 19783, byte value: -47
-logical: 58892, physical: 14860, byte value: 0
-logical: 8620, physical: 20140, byte value: 0
-logical: 38336, physical: 20416, byte value: 0
-logical: 64357, physical: 4965, byte value: 0
-logical: 23387, physical: 20571, byte value: -42
-logical: 42632, physical: 20872, byte value: 0
-logical: 15913, physical: 21033, byte value: 0
-logical: 15679, physical: 11839, byte value: 79
-logical: 22501, physical: 11493, byte value: 0
-logical: 37540, physical: 21412, byte value: 0
-logical: 5527, physical: 21655, byte value: 101
-logical: 63921, physical: 21937, byte value: 0
-logical: 62716, physical: 508, byte value: 0
-logical: 32874, physical: 4202, byte value: 32
-logical: 64390, physical: 4998, byte value: 62
-logical: 63101, physical: 22141, byte value: 0
-logical: 61802, physical: 22378, byte value: 60
-logical: 19648, physical: 22720, byte value: 0
-logical: 29031, physical: 16487, byte value: 89
-logical: 44981, physical: 13237, byte value: 0
-logical: 28092, physical: 3516, byte value: 0
-logical: 9448, physical: 23016, byte value: 0
-logical: 44744, physical: 11208, byte value: 0
-logical: 61496, physical: 23096, byte value: 0
-logical: 31453, physical: 23517, byte value: 0
-logical: 60746, physical: 23626, byte value: 59
-logical: 12199, physical: 2727, byte value: -23
-logical: 62255, physical: 23855, byte value: -53
-logical: 21793, physical: 24097, byte value: 0
-logical: 26544, physical: 24496, byte value: 0
-logical: 14964, physical: 24692, byte value: 0
-logical: 41462, physical: 25078, byte value: 40
-logical: 56089, physical: 25113, byte value: 0
-logical: 52038, physical: 25414, byte value: 50
-logical: 47982, physical: 25710, byte value: 46
-logical: 59484, physical: 25948, byte value: 0
-logical: 50924, physical: 26348, byte value: 0
-logical: 6942, physical: 26398, byte value: 6
-logical: 34998, physical: 26806, byte value: 34
-logical: 27069, physical: 27069, byte value: 0
-logical: 51926, physical: 27350, byte value: 50
-logical: 60645, physical: 7397, byte value: 0
-logical: 43181, physical: 17581, byte value: 0
-logical: 10559, physical: 27455, byte value: 79
-logical: 4664, physical: 27704, byte value: 0
-logical: 28578, physical: 28066, byte value: 27
-logical: 59516, physical: 25980, byte value: 0
-logical: 38912, physical: 3840, byte value: 0
-logical: 63562, physical: 28234, byte value: 62
-logical: 64846, physical: 2126, byte value: 63
-logical: 62938, physical: 28634, byte value: 61
-logical: 27194, physical: 28730, byte value: 26
-logical: 28804, physical: 1412, byte value: 0
-logical: 61703, physical: 22279, byte value: 65
-logical: 10998, physical: 12534, byte value: 10
-logical: 6596, physical: 29124, byte value: 0
-logical: 37721, physical: 29273, byte value: 0
-logical: 43430, physical: 29606, byte value: 42
-logical: 22692, physical: 2980, byte value: 0
-logical: 62971, physical: 28667, byte value: 126
-logical: 47125, physical: 29717, byte value: 0
-logical: 52521, physical: 29993, byte value: 0
-logical: 34646, physical: 18006, byte value: 33
-logical: 32889, physical: 4217, byte value: 0
-logical: 13055, physical: 30463, byte value: -65
-logical: 65416, physical: 30600, byte value: 0
-logical: 62869, physical: 28565, byte value: 0
-logical: 57314, physical: 30946, byte value: 55
-logical: 12659, physical: 31091, byte value: 92
-logical: 14052, physical: 31460, byte value: 0
-logical: 32956, physical: 4284, byte value: 0
-logical: 49273, physical: 8569, byte value: 0
-logical: 50352, physical: 14000, byte value: 0
-logical: 49737, physical: 31561, byte value: 0
-logical: 15555, physical: 31939, byte value: 48
-logical: 47475, physical: 32115, byte value: 92
-logical: 15328, physical: 32480, byte value: 0
-logical: 34621, physical: 17981, byte value: 0
-logical: 51365, physical: 32677, byte value: 0
-logical: 32820, physical: 4148, byte value: 0
-logical: 48855, physical: 215, byte value: -75
-logical: 12224, physical: 2752, byte value: 0
-logical: 2035, physical: 755, byte value: -4
-logical: 60539, physical: 7291, byte value: 30
-logical: 14595, physical: 771, byte value: 64
-logical: 13853, physical: 31261, byte value: 0
-logical: 24143, physical: 1615, byte value: -109
-logical: 15216, physical: 32368, byte value: 0
-logical: 8113, physical: 1969, byte value: 0
-logical: 22640, physical: 2928, byte value: 0
-logical: 32978, physical: 4306, byte value: 32
-logical: 39151, physical: 4079, byte value: 59
-logical: 19520, physical: 22592, byte value: 0
-logical: 58141, physical: 2333, byte value: 0
-logical: 63959, physical: 21975, byte value: 117
-logical: 53040, physical: 3632, byte value: 0
-logical: 55842, physical: 4386, byte value: 54
-logical: 585, physical: 17225, byte value: 0
-logical: 51229, physical: 32541, byte value: 0
-logical: 64181, physical: 4789, byte value: 0
-logical: 54879, physical: 5215, byte value: -105
-logical: 28210, physical: 5426, byte value: 27
-logical: 10268, physical: 14620, byte value: 0
-logical: 15395, physical: 31779, byte value: 8
-logical: 12884, physical: 30292, byte value: 0
-logical: 2149, physical: 5733, byte value: 0
-logical: 53483, physical: 6123, byte value: 58
-logical: 59606, physical: 26070, byte value: 58
-logical: 14981, physical: 24709, byte value: 0
-logical: 36672, physical: 6208, byte value: 0
-logical: 23197, physical: 6557, byte value: 0
-logical: 36518, physical: 14502, byte value: 35
-logical: 13361, physical: 6961, byte value: 0
-logical: 19810, physical: 7522, byte value: 19
-logical: 25955, physical: 7779, byte value: 88
-logical: 62678, physical: 470, byte value: 61
-logical: 26021, physical: 7845, byte value: 0
-logical: 29409, physical: 8161, byte value: 0
-logical: 38111, physical: 8415, byte value: 55
-logical: 58573, physical: 15565, byte value: 0
-logical: 56840, physical: 9224, byte value: 0
-logical: 41306, physical: 24922, byte value: 40
-logical: 54426, physical: 19354, byte value: 53
-logical: 3617, physical: 10017, byte value: 0
-logical: 50652, physical: 18652, byte value: 0
-logical: 41452, physical: 25068, byte value: 0
-logical: 20241, physical: 16657, byte value: 0
-logical: 31723, physical: 12267, byte value: -6
-logical: 53747, physical: 9715, byte value: 124
-logical: 28550, physical: 28038, byte value: 27
-logical: 23402, physical: 20586, byte value: 22
-logical: 21205, physical: 1237, byte value: 0
-logical: 56181, physical: 25205, byte value: 0
-logical: 57470, physical: 10622, byte value: 56
-logical: 39933, physical: 11005, byte value: 0
-logical: 34964, physical: 26772, byte value: 0
-logical: 24781, physical: 11725, byte value: 0
-logical: 41747, physical: 12563, byte value: -60
-logical: 62564, physical: 356, byte value: 0
-logical: 58461, physical: 15453, byte value: 0
-logical: 20858, physical: 12922, byte value: 20
-logical: 49301, physical: 8597, byte value: 0
-logical: 40572, physical: 13436, byte value: 0
-logical: 23840, physical: 13600, byte value: 0
-logical: 35278, physical: 14286, byte value: 34
-logical: 62905, physical: 28601, byte value: 0
-logical: 56650, physical: 15178, byte value: 55
-logical: 11149, physical: 15757, byte value: 0
-logical: 38920, physical: 3848, byte value: 0
-logical: 23430, physical: 20614, byte value: 22
-logical: 57592, physical: 10744, byte value: 0
-logical: 3080, physical: 15880, byte value: 0
-logical: 6677, physical: 6677, byte value: 0
-logical: 50704, physical: 26128, byte value: 0
-logical: 51883, physical: 27307, byte value: -86
-logical: 62799, physical: 28495, byte value: 83
-logical: 20188, physical: 9180, byte value: 0
-logical: 1245, physical: 16349, byte value: 0
-logical: 12220, physical: 2748, byte value: 0
-logical: 17602, physical: 8898, byte value: 17
-logical: 28609, physical: 28097, byte value: 0
-logical: 42694, physical: 20934, byte value: 41
-logical: 29826, physical: 3202, byte value: 29
-logical: 13827, physical: 31235, byte value: -128
-logical: 27336, physical: 28872, byte value: 0
-logical: 53343, physical: 5983, byte value: 23
-logical: 11533, physical: 16909, byte value: 0
-logical: 41713, physical: 17905, byte value: 0
-logical: 33890, physical: 18274, byte value: 33
-logical: 4894, physical: 10270, byte value: 4
-logical: 57599, physical: 10751, byte value: 63
-logical: 3870, physical: 18974, byte value: 3
-logical: 58622, physical: 15614, byte value: 57
-logical: 29780, physical: 3156, byte value: 0
-logical: 62553, physical: 345, byte value: 0
-logical: 2303, physical: 5887, byte value: 63
-logical: 51915, physical: 27339, byte value: -78
-logical: 6251, physical: 9835, byte value: 26
-logical: 38107, physical: 8411, byte value: 54
-logical: 59325, physical: 18877, byte value: 0
-logical: 61295, physical: 19567, byte value: -37
-logical: 26699, physical: 19787, byte value: 18
-logical: 51188, physical: 15092, byte value: 0
-logical: 59519, physical: 25983, byte value: 31
-logical: 7345, physical: 20145, byte value: 0
-logical: 20325, physical: 16741, byte value: 0
-logical: 39633, physical: 20433, byte value: 0
-logical: 1562, physical: 21018, byte value: 1
-logical: 7580, physical: 11932, byte value: 0
-logical: 8170, physical: 2026, byte value: 7
-logical: 62256, physical: 23856, byte value: 0
-logical: 35823, physical: 11503, byte value: -5
-logical: 27790, physical: 21390, byte value: 27
-logical: 13191, physical: 21639, byte value: -31
-logical: 9772, physical: 4908, byte value: 0
-logical: 7477, physical: 11829, byte value: 0
-logical: 44455, physical: 22183, byte value: 105
-logical: 59546, physical: 26010, byte value: 58
-logical: 49347, physical: 8643, byte value: 48
-logical: 36539, physical: 14523, byte value: -82
-logical: 12453, physical: 16549, byte value: 0
-logical: 49640, physical: 13288, byte value: 0
-logical: 28290, physical: 5506, byte value: 27
-logical: 44817, physical: 3345, byte value: 0
-logical: 8565, physical: 22901, byte value: 0
-logical: 16399, physical: 11023, byte value: 3
-logical: 41934, physical: 12750, byte value: 40
-logical: 45457, physical: 23185, byte value: 0
-logical: 33856, physical: 18240, byte value: 0
-logical: 19498, physical: 22570, byte value: 19
-logical: 17661, physical: 8957, byte value: 0
-logical: 63829, physical: 21845, byte value: 0
-logical: 42034, physical: 23346, byte value: 41
-logical: 28928, physical: 23552, byte value: 0
-logical: 30711, physical: 24311, byte value: -3
-logical: 8800, physical: 24416, byte value: 0
-logical: 52335, physical: 25455, byte value: 27
-logical: 38775, physical: 25719, byte value: -35
-logical: 52704, physical: 30176, byte value: 0
-logical: 24380, physical: 26428, byte value: 0
-logical: 19602, physical: 22674, byte value: 19
-logical: 57998, physical: 27022, byte value: 56
-logical: 2919, physical: 17511, byte value: -39
-logical: 8362, physical: 27562, byte value: 8
-logical: 17884, physical: 27868, byte value: 0
-logical: 45737, physical: 28329, byte value: 0
-logical: 47894, physical: 2070, byte value: 46
-logical: 59667, physical: 1299, byte value: 68
-logical: 10385, physical: 14737, byte value: 0
-logical: 52782, physical: 22318, byte value: 51
-logical: 64416, physical: 12448, byte value: 0
-logical: 40946, physical: 29170, byte value: 39
-logical: 16778, physical: 29322, byte value: 16
-logical: 27159, physical: 28695, byte value: -123
-logical: 24324, physical: 26372, byte value: 0
-logical: 32450, physical: 29634, byte value: 31
-logical: 9108, physical: 29844, byte value: 0
-logical: 65305, physical: 30489, byte value: 0
-logical: 19575, physical: 22647, byte value: 29
-logical: 11117, physical: 15725, byte value: 0
-logical: 65170, physical: 30866, byte value: 63
-logical: 58013, physical: 27037, byte value: 0
-logical: 61676, physical: 31212, byte value: 0
-logical: 63510, physical: 13846, byte value: 62
-logical: 17458, physical: 8754, byte value: 17
-logical: 54675, physical: 31635, byte value: 100
-logical: 1713, physical: 21169, byte value: 0
-logical: 55105, physical: 32065, byte value: 0
-logical: 65321, physical: 30505, byte value: 0
-logical: 45278, physical: 18142, byte value: 44
-logical: 26256, physical: 144, byte value: 0
-logical: 64198, physical: 4806, byte value: 62
-logical: 29441, physical: 513, byte value: 0
-logical: 1928, physical: 7304, byte value: 0
-logical: 39425, physical: 20225, byte value: 0
-logical: 32000, physical: 768, byte value: 0
-logical: 28549, physical: 28037, byte value: 0
-logical: 46295, physical: 1751, byte value: 53
-logical: 22772, physical: 3060, byte value: 0
-logical: 58228, physical: 2420, byte value: 0
-logical: 63525, physical: 13861, byte value: 0
-logical: 32602, physical: 32346, byte value: 31
-logical: 46195, physical: 1651, byte value: 28
-logical: 55849, physical: 4393, byte value: 0
-logical: 46454, physical: 4214, byte value: 45
-logical: 7487, physical: 11839, byte value: 79
-logical: 33879, physical: 18263, byte value: 21
-logical: 42004, physical: 23316, byte value: 0
-logical: 8599, physical: 22935, byte value: 101
-logical: 18641, physical: 3793, byte value: 0
-logical: 49015, physical: 17271, byte value: -35
-logical: 26830, physical: 19918, byte value: 26
-logical: 34754, physical: 32706, byte value: 33
-logical: 14668, physical: 5196, byte value: 0
-logical: 38362, physical: 31962, byte value: 37
-logical: 38791, physical: 25735, byte value: -31
-logical: 4171, physical: 30283, byte value: 18
-logical: 45975, physical: 24727, byte value: -27
-logical: 14623, physical: 5151, byte value: 71
-logical: 62393, physical: 23993, byte value: 0
-logical: 64658, physical: 6290, byte value: 63
-logical: 10963, physical: 6611, byte value: -76
-logical: 9058, physical: 29794, byte value: 8
-logical: 51031, physical: 14935, byte value: -43
-logical: 32425, physical: 29609, byte value: 0
-logical: 45483, physical: 23211, byte value: 106
-logical: 44611, physical: 6979, byte value: -112
-logical: 63664, physical: 14000, byte value: 0
-logical: 54920, physical: 7560, byte value: 0
-logical: 7663, physical: 12015, byte value: 123
-logical: 56480, physical: 7840, byte value: 0
-logical: 1489, physical: 8145, byte value: 0
-logical: 28438, physical: 27926, byte value: 27
-logical: 65449, physical: 30633, byte value: 0
-logical: 12441, physical: 16537, byte value: 0
-logical: 58530, physical: 15522, byte value: 57
-logical: 63570, physical: 13906, byte value: 62
-logical: 26251, physical: 139, byte value: -94
-logical: 15972, physical: 9316, byte value: 0
-logical: 35826, physical: 11506, byte value: 34
-logical: 5491, physical: 19315, byte value: 92
-logical: 54253, physical: 10221, byte value: 0
-logical: 49655, physical: 13303, byte value: 125
-logical: 5868, physical: 18668, byte value: 0
-logical: 20163, physical: 9155, byte value: -80
-logical: 51079, physical: 14983, byte value: -31
-logical: 21398, physical: 24982, byte value: 20
-logical: 32756, physical: 32500, byte value: 0
-logical: 64196, physical: 4804, byte value: 0
-logical: 43218, physical: 12242, byte value: 42
-logical: 21583, physical: 9551, byte value: 19
-logical: 25086, physical: 1278, byte value: 24
-logical: 45515, physical: 23243, byte value: 114
-logical: 12893, physical: 25181, byte value: 0
-logical: 22914, physical: 10882, byte value: 22
-logical: 58969, physical: 26713, byte value: 0
-logical: 20094, physical: 9086, byte value: 19
-logical: 13730, physical: 11682, byte value: 13
-logical: 44059, physical: 12827, byte value: 6
-logical: 28931, physical: 23555, byte value: 64
-logical: 13533, physical: 13533, byte value: 0
-logical: 33134, physical: 13678, byte value: 32
-logical: 28483, physical: 27971, byte value: -48
-logical: 1220, physical: 16324, byte value: 0
-logical: 38174, physical: 31774, byte value: 37
-logical: 53502, physical: 6142, byte value: 52
-logical: 43328, physical: 14144, byte value: 0
-logical: 4970, physical: 10346, byte value: 4
-logical: 8090, physical: 1946, byte value: 7
-logical: 2661, physical: 15205, byte value: 0
-logical: 53903, physical: 3983, byte value: -93
-logical: 11025, physical: 15633, byte value: 0
-logical: 26627, physical: 19715, byte value: 0
-logical: 18117, physical: 20677, byte value: 0
-logical: 14505, physical: 16041, byte value: 0
-logical: 61528, physical: 31064, byte value: 0
-logical: 20423, physical: 16839, byte value: -15
-logical: 26962, physical: 6738, byte value: 26
-logical: 36392, physical: 14376, byte value: 0
-logical: 11365, physical: 26213, byte value: 0
-logical: 50882, physical: 28610, byte value: 49
-logical: 41668, physical: 17860, byte value: 0
-logical: 30497, physical: 24097, byte value: 0
-logical: 36216, physical: 2680, byte value: 0
-logical: 5619, physical: 19443, byte value: 124
-logical: 36983, physical: 20855, byte value: 29
-logical: 59557, physical: 26021, byte value: 0
-logical: 36663, physical: 31287, byte value: -51
-logical: 36436, physical: 14420, byte value: 0
-logical: 37057, physical: 20929, byte value: 0
-logical: 23585, physical: 16929, byte value: 0
-logical: 58791, physical: 10663, byte value: 105
-logical: 46666, physical: 19018, byte value: 45
-logical: 64475, physical: 12507, byte value: -10
-logical: 21615, physical: 9583, byte value: 27
-logical: 41090, physical: 3202, byte value: 40
-logical: 1771, physical: 21227, byte value: -70
-logical: 47513, physical: 409, byte value: 0
-logical: 39338, physical: 5802, byte value: 38
-logical: 1390, physical: 8046, byte value: 1
-logical: 38772, physical: 25716, byte value: 0
-logical: 58149, physical: 2341, byte value: 0
-logical: 7196, physical: 19996, byte value: 0
-logical: 9123, physical: 29859, byte value: -24
-logical: 7491, physical: 11843, byte value: 80
-logical: 62616, physical: 27288, byte value: 0
-logical: 15436, physical: 9804, byte value: 0
-logical: 17491, physical: 8787, byte value: 20
-logical: 53656, physical: 8344, byte value: 0
-logical: 26449, physical: 18769, byte value: 0
-logical: 34935, physical: 19575, byte value: 29
-logical: 19864, physical: 21400, byte value: 0
-logical: 51388, physical: 21692, byte value: 0
-logical: 15155, physical: 4915, byte value: -52
-logical: 64775, physical: 22023, byte value: 65
-logical: 47969, physical: 2145, byte value: 0
-logical: 16315, physical: 8635, byte value: -18
-logical: 1342, physical: 7998, byte value: 1
-logical: 51185, physical: 15089, byte value: 0
-logical: 6043, physical: 5531, byte value: -26
-logical: 21398, physical: 24982, byte value: 20
-logical: 3273, physical: 3529, byte value: 0
-logical: 9370, physical: 11162, byte value: 9
-logical: 35463, physical: 12679, byte value: -95
-logical: 28205, physical: 21805, byte value: 0
-logical: 2351, physical: 24367, byte value: 75
-logical: 28999, physical: 23623, byte value: 81
-logical: 47699, physical: 25427, byte value: -108
-logical: 46870, physical: 29974, byte value: 45
-logical: 22311, physical: 17447, byte value: -55
-logical: 22124, physical: 27500, byte value: 0
-logical: 22427, physical: 17563, byte value: -26
-logical: 49344, physical: 27840, byte value: 0
-logical: 23224, physical: 28344, byte value: 0
-logical: 5514, physical: 19338, byte value: 5
-logical: 20504, physical: 1304, byte value: 0
-logical: 376, physical: 14712, byte value: 0
-logical: 2014, physical: 7390, byte value: 1
-logical: 38700, physical: 25644, byte value: 0
-logical: 13098, physical: 22314, byte value: 12
-logical: 62435, physical: 24035, byte value: -8
-logical: 48046, physical: 2222, byte value: 46
-logical: 63464, physical: 29160, byte value: 0
-logical: 12798, physical: 29438, byte value: 12
-logical: 51178, physical: 15082, byte value: 49
-logical: 8627, physical: 22963, byte value: 108
-logical: 27083, physical: 6859, byte value: 114
-logical: 47198, physical: 28766, byte value: 46
-logical: 44021, physical: 26613, byte value: 0
-logical: 32792, physical: 22552, byte value: 0
-logical: 43996, physical: 26588, byte value: 0
-logical: 41126, physical: 3238, byte value: 40
-logical: 64244, physical: 4852, byte value: 0
-logical: 37047, physical: 20919, byte value: 45
-logical: 60281, physical: 30841, byte value: 0
-logical: 52904, physical: 27048, byte value: 0
-logical: 7768, physical: 31576, byte value: 0
-logical: 55359, physical: 32063, byte value: 15
-logical: 3230, physical: 3486, byte value: 3
-logical: 44813, physical: 17933, byte value: 0
-logical: 4116, physical: 30228, byte value: 0
-logical: 65222, physical: 710, byte value: 63
-logical: 28083, physical: 20403, byte value: 108
-logical: 60660, physical: 1012, byte value: 0
-logical: 39, physical: 2855, byte value: 9
-logical: 328, physical: 14664, byte value: 0
-logical: 47868, physical: 25596, byte value: 0
-logical: 13009, physical: 25297, byte value: 0
-logical: 22378, physical: 17514, byte value: 21
-logical: 39304, physical: 5768, byte value: 0
-logical: 11171, physical: 15779, byte value: -24
-logical: 8079, physical: 1935, byte value: -29
-logical: 52879, physical: 27023, byte value: -93
-logical: 5123, physical: 1539, byte value: 0
-logical: 4356, physical: 4356, byte value: 0
-logical: 45745, physical: 4273, byte value: 0
-logical: 32952, physical: 22712, byte value: 0
-logical: 4657, physical: 18225, byte value: 0
-logical: 24142, physical: 23374, byte value: 23
-logical: 23319, physical: 3607, byte value: -59
-logical: 13607, physical: 11559, byte value: 73
-logical: 46304, physical: 17376, byte value: 0
-logical: 17677, physical: 32525, byte value: 0
-logical: 59691, physical: 24619, byte value: 74
-logical: 50967, physical: 14871, byte value: -59
-logical: 7817, physical: 31625, byte value: 0
-logical: 8545, physical: 22881, byte value: 0
-logical: 55297, physical: 32001, byte value: 0
-logical: 52954, physical: 27098, byte value: 51
-logical: 39720, physical: 5160, byte value: 0
-logical: 18455, physical: 6167, byte value: 5
-logical: 30349, physical: 6541, byte value: 0
-logical: 63270, physical: 28966, byte value: 61
-logical: 27156, physical: 29460, byte value: 0
-logical: 20614, physical: 1414, byte value: 20
-logical: 19372, physical: 7084, byte value: 0
-logical: 48689, physical: 7473, byte value: 0
-logical: 49386, physical: 27882, byte value: 48
-logical: 50584, physical: 7832, byte value: 0
-logical: 51936, physical: 30688, byte value: 0
-logical: 34705, physical: 16529, byte value: 0
-logical: 13653, physical: 11605, byte value: 0
-logical: 50077, physical: 15517, byte value: 0
-logical: 54518, physical: 14070, byte value: 53
-logical: 41482, physical: 17674, byte value: 40
-logical: 4169, physical: 30281, byte value: 0
-logical: 36118, physical: 2582, byte value: 35
-logical: 9584, physical: 112, byte value: 0
-logical: 18490, physical: 6202, byte value: 18
-logical: 55420, physical: 32124, byte value: 0
-logical: 5708, physical: 18508, byte value: 0
-logical: 23506, physical: 3794, byte value: 22
-logical: 15391, physical: 9759, byte value: 7
-logical: 36368, physical: 14352, byte value: 0
-logical: 38976, physical: 9280, byte value: 0
-logical: 50406, physical: 11494, byte value: 49
-logical: 49236, physical: 27732, byte value: 0
-logical: 65035, physical: 523, byte value: -126
-logical: 30120, physical: 10152, byte value: 0
-logical: 62551, physical: 27223, byte value: 21
-logical: 46809, physical: 19161, byte value: 0
-logical: 21687, physical: 9655, byte value: 45
-logical: 53839, physical: 3919, byte value: -109
-logical: 2098, physical: 13106, byte value: 2
-logical: 12364, physical: 32332, byte value: 0
-logical: 45366, physical: 23094, byte value: 44
-logical: 50437, physical: 7685, byte value: 0
-logical: 36675, physical: 31299, byte value: -48
-logical: 55382, physical: 32086, byte value: 54
-logical: 11846, physical: 12102, byte value: 11
-logical: 49127, physical: 1255, byte value: -7
-logical: 19900, physical: 21436, byte value: 0
-logical: 20554, physical: 1354, byte value: 20
-logical: 19219, physical: 6931, byte value: -60
-logical: 51483, physical: 10779, byte value: 70
-logical: 58090, physical: 26858, byte value: 56
-logical: 39074, physical: 9378, byte value: 38
-logical: 16060, physical: 9148, byte value: 0
-logical: 10447, physical: 13007, byte value: 51
-logical: 54169, physical: 13465, byte value: 0
-logical: 20634, physical: 1434, byte value: 20
-logical: 57555, physical: 13779, byte value: 52
-logical: 61210, physical: 27930, byte value: 59
-logical: 269, physical: 14605, byte value: 0
-logical: 33154, physical: 16258, byte value: 32
-logical: 64487, physical: 12519, byte value: -7
-logical: 61223, physical: 27943, byte value: -55
-logical: 47292, physical: 28860, byte value: 0
-logical: 21852, physical: 31836, byte value: 0
-logical: 5281, physical: 1697, byte value: 0
-logical: 45912, physical: 5976, byte value: 0
-logical: 32532, physical: 14100, byte value: 0
-logical: 63067, physical: 10331, byte value: -106
-logical: 41683, physical: 17875, byte value: -76
-logical: 20981, physical: 15349, byte value: 0
-logical: 33881, physical: 19801, byte value: 0
-logical: 41785, physical: 20537, byte value: 0
-logical: 4580, physical: 4580, byte value: 0
-logical: 41389, physical: 16045, byte value: 0
-logical: 28572, physical: 31132, byte value: 0
-logical: 782, physical: 16654, byte value: 0
-logical: 30273, physical: 6465, byte value: 0
-logical: 62267, physical: 23867, byte value: -50
-logical: 17922, physical: 26114, byte value: 17
-logical: 63238, physical: 28934, byte value: 61
-logical: 3308, physical: 3564, byte value: 0
-logical: 26545, physical: 18865, byte value: 0
-logical: 44395, physical: 28523, byte value: 90
-logical: 39120, physical: 9424, byte value: 0
-logical: 21706, physical: 9674, byte value: 21
-logical: 7144, physical: 24296, byte value: 0
-logical: 30244, physical: 6436, byte value: 0
-logical: 3725, physical: 25997, byte value: 0
-logical: 54632, physical: 17000, byte value: 0
-logical: 30574, physical: 10606, byte value: 29
-logical: 8473, physical: 22809, byte value: 0
-logical: 12386, physical: 32354, byte value: 12
-logical: 41114, physical: 3226, byte value: 40
-logical: 57930, physical: 26698, byte value: 56
-logical: 15341, physical: 5101, byte value: 0
-logical: 15598, physical: 9966, byte value: 15
-logical: 59922, physical: 21010, byte value: 58
-logical: 18226, physical: 306, byte value: 17
-logical: 48162, physical: 2338, byte value: 47
-logical: 41250, physical: 15906, byte value: 40
-logical: 1512, physical: 8168, byte value: 0
-logical: 2546, physical: 24562, byte value: 2
-logical: 41682, physical: 17874, byte value: 40
-logical: 322, physical: 14658, byte value: 0
-logical: 880, physical: 16752, byte value: 0
-logical: 20891, physical: 15259, byte value: 102
-logical: 56604, physical: 19996, byte value: 0
-logical: 40166, physical: 29926, byte value: 39
-logical: 26791, physical: 11943, byte value: 41
-logical: 44560, physical: 8720, byte value: 0
-logical: 38698, physical: 25642, byte value: 37
-logical: 64127, physical: 4735, byte value: -97
-logical: 15028, physical: 8372, byte value: 0
-logical: 38669, physical: 25613, byte value: 0
-logical: 45637, physical: 4165, byte value: 0
-logical: 43151, physical: 19599, byte value: 35
-logical: 9465, physical: 11257, byte value: 0
-logical: 2498, physical: 24514, byte value: 2
-logical: 13978, physical: 21658, byte value: 13
-logical: 16326, physical: 8646, byte value: 15
-logical: 51442, physical: 22258, byte value: 50
-logical: 34845, physical: 5405, byte value: 0
-logical: 63667, physical: 25011, byte value: 44
-logical: 39370, physical: 5834, byte value: 38
-logical: 55671, physical: 12663, byte value: 93
-logical: 64496, physical: 12528, byte value: 0
-logical: 7767, physical: 31575, byte value: -107
-logical: 6283, physical: 21899, byte value: 34
-logical: 55884, physical: 23628, byte value: 0
-logical: 61103, physical: 30127, byte value: -85
-logical: 10184, physical: 27592, byte value: 0
-logical: 39543, physical: 28279, byte value: -99
-logical: 9555, physical: 83, byte value: 84
-logical: 13963, physical: 21643, byte value: -94
-logical: 58975, physical: 19295, byte value: -105
-logical: 19537, physical: 7249, byte value: 0
-logical: 6101, physical: 22485, byte value: 0
-logical: 41421, physical: 16077, byte value: 0
-logical: 45502, physical: 23230, byte value: 44
-logical: 29328, physical: 2192, byte value: 0
-logical: 8149, physical: 2005, byte value: 0
-logical: 25450, physical: 29290, byte value: 24
-logical: 58944, physical: 19264, byte value: 0
-logical: 50666, physical: 7914, byte value: 49
-logical: 23084, physical: 6700, byte value: 0
-logical: 36468, physical: 14452, byte value: 0
-logical: 33645, physical: 26477, byte value: 0
-logical: 25002, physical: 20906, byte value: 24
-logical: 53715, physical: 30931, byte value: 116
-logical: 60173, physical: 17933, byte value: 0
-logical: 46354, physical: 20242, byte value: 45
-logical: 4708, physical: 18276, byte value: 0
-logical: 28208, physical: 816, byte value: 0
-logical: 58844, physical: 3036, byte value: 0
-logical: 22173, physical: 25501, byte value: 0
-logical: 8535, physical: 22871, byte value: 85
-logical: 42261, physical: 25109, byte value: 0
-logical: 29687, physical: 17655, byte value: -3
-logical: 37799, physical: 15783, byte value: -23
-logical: 22566, physical: 22566, byte value: 22
-logical: 62520, physical: 27192, byte value: 0
-logical: 4098, physical: 30210, byte value: 4
-logical: 47999, physical: 23423, byte value: -33
-logical: 49660, physical: 17404, byte value: 0
-logical: 37063, physical: 32711, byte value: 49
-logical: 41856, physical: 20608, byte value: 0
-logical: 5417, physical: 24617, byte value: 0
-logical: 48856, physical: 7640, byte value: 0
-logical: 10682, physical: 15034, byte value: 10
-logical: 22370, physical: 26978, byte value: 21
-logical: 63281, physical: 28977, byte value: 0
-logical: 62452, physical: 24052, byte value: 0
-logical: 50532, physical: 7780, byte value: 0
-logical: 9022, physical: 5182, byte value: 8
-logical: 59300, physical: 29604, byte value: 0
-logical: 58660, physical: 2852, byte value: 0
-logical: 56401, physical: 30545, byte value: 0
-logical: 8518, physical: 22854, byte value: 8
-logical: 63066, physical: 10330, byte value: 61
-logical: 63250, physical: 28946, byte value: 61
-logical: 48592, physical: 16592, byte value: 0
-logical: 28771, physical: 11619, byte value: 24
-logical: 37673, physical: 15657, byte value: 0
-logical: 60776, physical: 15464, byte value: 0
-logical: 56438, physical: 30582, byte value: 55
-logical: 60424, physical: 13832, byte value: 0
-logical: 39993, physical: 29753, byte value: 0
-logical: 56004, physical: 23748, byte value: 0
-logical: 59002, physical: 19322, byte value: 57
-logical: 33982, physical: 19902, byte value: 33
-logical: 25498, physical: 29338, byte value: 24
-logical: 57047, physical: 2775, byte value: -75
-logical: 1401, physical: 8057, byte value: 0
-logical: 15130, physical: 4890, byte value: 14
-logical: 42960, physical: 6352, byte value: 0
-logical: 61827, physical: 18563, byte value: 96
-logical: 32442, physical: 3770, byte value: 31
-logical: 64304, physical: 12336, byte value: 0
-logical: 30273, physical: 6465, byte value: 0
-logical: 38082, physical: 11458, byte value: 37
-logical: 22404, physical: 27012, byte value: 0
-logical: 3808, physical: 26080, byte value: 0
-logical: 16883, physical: 27891, byte value: 124
-logical: 23111, physical: 6727, byte value: -111
-logical: 62417, physical: 24017, byte value: 0
-logical: 60364, physical: 18124, byte value: 0
-logical: 4542, physical: 4542, byte value: 4
-logical: 14829, physical: 749, byte value: 0
-logical: 44964, physical: 10148, byte value: 0
-logical: 33924, physical: 19844, byte value: 0
-logical: 2141, physical: 13149, byte value: 0
-logical: 19245, physical: 6957, byte value: 0
-logical: 47168, physical: 28736, byte value: 0
-logical: 24048, physical: 19184, byte value: 0
-logical: 1022, physical: 16894, byte value: 0
-logical: 23075, physical: 6691, byte value: -120
-logical: 24888, physical: 20792, byte value: 0
-logical: 49247, physical: 3935, byte value: 23
-logical: 4900, physical: 31268, byte value: 0
-logical: 22656, physical: 22656, byte value: 0
-logical: 34117, physical: 32069, byte value: 0
-logical: 55555, physical: 12547, byte value: 64
-logical: 48947, physical: 1075, byte value: -52
-logical: 59533, physical: 12173, byte value: 0
-logical: 21312, physical: 21312, byte value: 0
-logical: 21415, physical: 21415, byte value: -23
-logical: 813, physical: 16685, byte value: 0
-logical: 19419, physical: 7131, byte value: -10
-logical: 1999, physical: 10959, byte value: -13
-logical: 20155, physical: 9147, byte value: -82
-logical: 21521, physical: 9489, byte value: 0
-logical: 13670, physical: 12902, byte value: 13
-logical: 19289, physical: 7001, byte value: 0
-logical: 58483, physical: 13427, byte value: 28
-logical: 41318, physical: 15974, byte value: 40
-logical: 16151, physical: 8471, byte value: -59
-logical: 13611, physical: 12843, byte value: 74
-logical: 21514, physical: 9482, byte value: 21
-logical: 13499, physical: 1467, byte value: 46
-logical: 45583, physical: 4111, byte value: -125
-logical: 49013, physical: 1141, byte value: 0
-logical: 64843, physical: 13643, byte value: 82
-logical: 63485, physical: 29181, byte value: 0
-logical: 38697, physical: 25641, byte value: 0
-logical: 59188, physical: 29492, byte value: 0
-logical: 24593, physical: 16145, byte value: 0
-logical: 57641, physical: 27945, byte value: 0
-logical: 36524, physical: 14508, byte value: 0
-logical: 56980, physical: 2708, byte value: 0
-logical: 36810, physical: 31946, byte value: 35
-logical: 6096, physical: 22480, byte value: 0
-logical: 11070, physical: 1598, byte value: 10
-logical: 60124, physical: 21212, byte value: 0
-logical: 37576, physical: 6088, byte value: 0
-logical: 15096, physical: 8440, byte value: 0
-logical: 45247, physical: 14271, byte value: 47
-logical: 32783, physical: 30991, byte value: 3
-logical: 58390, physical: 13334, byte value: 57
-logical: 60873, physical: 15561, byte value: 0
-logical: 23719, physical: 26279, byte value: 41
-logical: 24385, physical: 3393, byte value: 0
-logical: 22307, physical: 26915, byte value: -56
-logical: 17375, physical: 18911, byte value: -9
-logical: 15990, physical: 28534, byte value: 15
-logical: 20526, physical: 9262, byte value: 20
-logical: 25904, physical: 24112, byte value: 0
-logical: 42224, physical: 17136, byte value: 0
-logical: 9311, physical: 11103, byte value: 23
-logical: 7862, physical: 31670, byte value: 7
-logical: 3835, physical: 26107, byte value: -66
-logical: 30535, physical: 10567, byte value: -47
-logical: 65179, physical: 32411, byte value: -90
-logical: 57387, physical: 3115, byte value: 10
-logical: 63579, physical: 24923, byte value: 22
-logical: 4946, physical: 31314, byte value: 4
-logical: 9037, physical: 5197, byte value: 0
-logical: 61033, physical: 30057, byte value: 0
-logical: 55543, physical: 26871, byte value: 61
-logical: 50361, physical: 9913, byte value: 0
-logical: 6480, physical: 336, byte value: 0
-logical: 14042, physical: 21722, byte value: 13
-logical: 21531, physical: 9499, byte value: 6
-logical: 39195, physical: 5659, byte value: 70
-logical: 37511, physical: 6023, byte value: -95
-logical: 23696, physical: 26256, byte value: 0
-logical: 27440, physical: 2352, byte value: 0
-logical: 28201, physical: 809, byte value: 0
-logical: 23072, physical: 6688, byte value: 0
-logical: 7814, physical: 31622, byte value: 7
-logical: 6552, physical: 408, byte value: 0
-logical: 43637, physical: 17781, byte value: 0
-logical: 35113, physical: 14633, byte value: 0
-logical: 34890, physical: 5450, byte value: 34
-logical: 61297, physical: 15217, byte value: 0
-logical: 45633, physical: 4161, byte value: 0
-logical: 61431, physical: 15351, byte value: -3
-logical: 46032, physical: 20176, byte value: 0
-logical: 18774, physical: 11862, byte value: 18
-logical: 62991, physical: 10255, byte value: -125
-logical: 28059, physical: 8859, byte value: 102
-logical: 35229, physical: 14749, byte value: 0
-logical: 51230, physical: 22046, byte value: 50
-logical: 14405, physical: 4677, byte value: 0
-logical: 52242, physical: 19474, byte value: 51
-logical: 43153, physical: 24465, byte value: 0
-logical: 2709, physical: 21909, byte value: 0
-logical: 47963, physical: 23387, byte value: -42
-logical: 36943, physical: 32591, byte value: 19
-logical: 54066, physical: 27442, byte value: 52
-logical: 10054, physical: 28230, byte value: 9
-logical: 43051, physical: 24363, byte value: 10
-logical: 11525, physical: 5, byte value: 0
-logical: 17684, physical: 7188, byte value: 0
-logical: 41681, physical: 23249, byte value: 0
-logical: 27883, physical: 2283, byte value: 58
-logical: 56909, physical: 2637, byte value: 0
-logical: 45772, physical: 4300, byte value: 0
-logical: 27496, physical: 2408, byte value: 0
-logical: 46842, physical: 2042, byte value: 45
-logical: 38734, physical: 25678, byte value: 37
-logical: 28972, physical: 26412, byte value: 0
-logical: 59684, physical: 30756, byte value: 0
-logical: 11384, physical: 20344, byte value: 0
-logical: 21018, physical: 18202, byte value: 20
-logical: 2192, physical: 13200, byte value: 0
-logical: 18384, physical: 25552, byte value: 0
-logical: 13464, physical: 1432, byte value: 0
-logical: 31018, physical: 25130, byte value: 30
-logical: 62958, physical: 17646, byte value: 61
-logical: 30611, physical: 10643, byte value: -28
-logical: 1913, physical: 10873, byte value: 0
-logical: 18904, physical: 11992, byte value: 0
-logical: 26773, physical: 27285, byte value: 0
-logical: 55491, physical: 26819, byte value: 48
-logical: 21899, physical: 30347, byte value: 98
-logical: 64413, physical: 12445, byte value: 0
-logical: 47134, physical: 28702, byte value: 46
-logical: 23172, physical: 6788, byte value: 0
-logical: 7262, physical: 17246, byte value: 7
-logical: 12705, physical: 20641, byte value: 0
-logical: 7522, physical: 24674, byte value: 7
-logical: 58815, physical: 3007, byte value: 111
-logical: 34916, physical: 5476, byte value: 0
-logical: 3802, physical: 26074, byte value: 3
-logical: 58008, physical: 7576, byte value: 0
-logical: 1239, physical: 15063, byte value: 53
-logical: 63947, physical: 7883, byte value: 114
-logical: 381, physical: 22909, byte value: 0
-logical: 60734, physical: 15422, byte value: 59
-logical: 48769, physical: 16513, byte value: 0
-logical: 41938, physical: 11730, byte value: 40
-logical: 38025, physical: 11401, byte value: 0
-logical: 55099, physical: 15675, byte value: -50
-logical: 56691, physical: 30579, byte value: 92
-logical: 39530, physical: 13930, byte value: 38
-logical: 59003, physical: 19323, byte value: -98
-logical: 6029, physical: 22413, byte value: 0
-logical: 20920, physical: 29880, byte value: 0
-logical: 8077, physical: 23693, byte value: 0
-logical: 42633, physical: 29321, byte value: 0
-logical: 17443, physical: 7971, byte value: 8
-logical: 53570, physical: 4930, byte value: 52
-logical: 22833, physical: 6193, byte value: 0
-logical: 3782, physical: 26054, byte value: 3
-logical: 47758, physical: 18574, byte value: 46
-logical: 22136, physical: 3704, byte value: 0
-logical: 22427, physical: 27035, byte value: -26
-logical: 23867, physical: 19003, byte value: 78
-logical: 59968, physical: 21056, byte value: 0
-logical: 62166, physical: 6614, byte value: 60
-logical: 6972, physical: 27708, byte value: 0
-logical: 63684, physical: 25028, byte value: 0
-logical: 46388, physical: 23860, byte value: 0
-logical: 41942, physical: 11734, byte value: 40
-logical: 36524, physical: 14508, byte value: 0
-logical: 9323, physical: 11115, byte value: 26
-logical: 31114, physical: 25226, byte value: 30
-logical: 22345, physical: 26953, byte value: 0
-logical: 46463, physical: 23935, byte value: 95
-logical: 54671, physical: 18063, byte value: 99
-logical: 9214, physical: 5374, byte value: 8
-logical: 7257, physical: 17241, byte value: 0
-logical: 33150, physical: 4478, byte value: 32
-logical: 41565, physical: 23133, byte value: 0
-logical: 26214, physical: 614, byte value: 25
-logical: 3595, physical: 25867, byte value: -126
-logical: 17932, physical: 9996, byte value: 0
-logical: 34660, physical: 19812, byte value: 0
-logical: 51961, physical: 20985, byte value: 0
-logical: 58634, physical: 2826, byte value: 57
-logical: 57990, physical: 7558, byte value: 56
-logical: 28848, physical: 4016, byte value: 0
-logical: 49920, physical: 22528, byte value: 0
-logical: 18351, physical: 25519, byte value: -21
-logical: 53669, physical: 5029, byte value: 0
-logical: 33996, physical: 32204, byte value: 0
-logical: 6741, physical: 12629, byte value: 0
-logical: 64098, physical: 12130, byte value: 62
-logical: 606, physical: 21342, byte value: 0
-logical: 27383, physical: 16887, byte value: -67
-logical: 63140, physical: 10404, byte value: 0
-logical: 32228, physical: 9188, byte value: 0
-logical: 63437, physical: 29133, byte value: 0
-logical: 29085, physical: 26525, byte value: 0
-logical: 65080, physical: 32312, byte value: 0
-logical: 38753, physical: 25697, byte value: 0
-logical: 16041, physical: 28585, byte value: 0
-logical: 9041, physical: 5201, byte value: 0
-logical: 42090, physical: 17002, byte value: 41
-logical: 46388, physical: 23860, byte value: 0
-logical: 63650, physical: 24994, byte value: 62
-logical: 36636, physical: 31772, byte value: 0
-logical: 21947, physical: 30395, byte value: 110
-logical: 19833, physical: 7033, byte value: 0
-logical: 36464, physical: 14448, byte value: 0
-logical: 8541, physical: 15965, byte value: 0
-logical: 12712, physical: 20648, byte value: 0
-logical: 48955, physical: 1083, byte value: -50
-logical: 39206, physical: 5670, byte value: 38
-logical: 15578, physical: 8666, byte value: 15
-logical: 49205, physical: 12853, byte value: 0
-logical: 7731, physical: 31539, byte value: -116
-logical: 43046, physical: 24358, byte value: 42
-logical: 60498, physical: 13650, byte value: 59
-logical: 9237, physical: 11029, byte value: 0
-logical: 47706, physical: 18522, byte value: 46
-logical: 43973, physical: 29637, byte value: 0
-logical: 42008, physical: 16920, byte value: 0
-logical: 27460, physical: 2372, byte value: 0
-logical: 24999, physical: 16295, byte value: 105
-logical: 51933, physical: 20957, byte value: 0
-logical: 34070, physical: 27926, byte value: 33
-logical: 65155, physical: 32387, byte value: -96
-logical: 59955, physical: 21043, byte value: -116
-logical: 9277, physical: 11069, byte value: 0
-logical: 20420, physical: 1732, byte value: 0
-logical: 44860, physical: 8252, byte value: 0
-logical: 50992, physical: 14128, byte value: 0
-logical: 10583, physical: 31063, byte value: 85
-logical: 57751, physical: 13463, byte value: 101
-logical: 23195, physical: 6811, byte value: -90
-logical: 27227, physical: 16731, byte value: -106
-logical: 42816, physical: 3392, byte value: 0
-logical: 58219, physical: 18795, byte value: -38
-logical: 37606, physical: 6118, byte value: 36
-logical: 18426, physical: 25594, byte value: 17
-logical: 21238, physical: 18422, byte value: 20
-logical: 11983, physical: 9423, byte value: -77
-logical: 48394, physical: 24074, byte value: 47
-logical: 11036, physical: 3100, byte value: 0
-logical: 30557, physical: 10589, byte value: 0
-logical: 23453, physical: 31389, byte value: 0
-logical: 49847, physical: 30135, byte value: -83
-logical: 30032, physical: 9808, byte value: 0
-logical: 48065, physical: 23489, byte value: 0
-logical: 6957, physical: 27693, byte value: 0
-logical: 2301, physical: 13309, byte value: 0
-logical: 7736, physical: 31544, byte value: 0
-logical: 31260, physical: 21532, byte value: 0
-logical: 17071, physical: 9647, byte value: -85
-logical: 8940, physical: 26348, byte value: 0
-logical: 9929, physical: 969, byte value: 0
-logical: 45563, physical: 507, byte value: 126
-logical: 12107, physical: 17739, byte value: -46
+Page Faults = 539
+TLB Hits = 54
+address: 20 Value: 0
+Logical address: 62493 Phyiscal address: 285 Value: 0
+Logical address: 30198 Phyiscal address: 758 Value: 29
+Logical address: 53683 Phyiscal address: 947 Value: 108
+Logical address: 40185 Phyiscal address: 1273 Value: 0
+Logical address: 28781 Phyiscal address: 1389 Value: 0
+Logical address: 24462 Phyiscal address: 1678 Value: 23
+Logical address: 48399 Phyiscal address: 1807 Value: 67
+Logical address: 64815 Phyiscal address: 2095 Value: 75
+Logical address: 18295 Phyiscal address: 2423 Value: -35
+Logical address: 12218 Phyiscal address: 2746 Value: 11
+Logical address: 22760 Phyiscal address: 3048 Value: 0
+Logical address: 57982 Phyiscal address: 3198 Value: 56
+Logical address: 27966 Phyiscal address: 3390 Value: 27
+Logical address: 54894 Phyiscal address: 3694 Value: 53
+Logical address: 38929 Phyiscal address: 3857 Value: 0
+Logical address: 32865 Phyiscal address: 4193 Value: 0
+Logical address: 64243 Phyiscal address: 4595 Value: -68
+Logical address: 2315 Phyiscal address: 4619 Value: 66
+Logical address: 64454 Phyiscal address: 5062 Value: 62
+Logical address: 55041 Phyiscal address: 5121 Value: 0
+Logical address: 18633 Phyiscal address: 5577 Value: 0
+Logical address: 14557 Phyiscal address: 5853 Value: 0
+Logical address: 61006 Phyiscal address: 5966 Value: 59
+Logical address: 62615 Phyiscal address: 407 Value: 37
+Logical address: 7591 Phyiscal address: 6311 Value: 105
+Logical address: 64747 Phyiscal address: 6635 Value: 58
+Logical address: 6727 Phyiscal address: 6727 Value: -111
+Logical address: 32315 Phyiscal address: 6971 Value: -114
+Logical address: 60645 Phyiscal address: 7397 Value: 0
+Logical address: 6308 Phyiscal address: 7588 Value: 0
+Logical address: 45688 Phyiscal address: 7800 Value: 0
+Logical address: 969 Phyiscal address: 8137 Value: 0
+Logical address: 40891 Phyiscal address: 8379 Value: -18
+Logical address: 49294 Phyiscal address: 8590 Value: 48
+Logical address: 41118 Phyiscal address: 8862 Value: 40
+Logical address: 21395 Phyiscal address: 9107 Value: -28
+Logical address: 6091 Phyiscal address: 9419 Value: -14
+Logical address: 32541 Phyiscal address: 9501 Value: 0
+Logical address: 17665 Phyiscal address: 9729 Value: 0
+Logical address: 3784 Phyiscal address: 10184 Value: 0
+Logical address: 28718 Phyiscal address: 1326 Value: 28
+Logical address: 59240 Phyiscal address: 10344 Value: 0
+Logical address: 40178 Phyiscal address: 1266 Value: 39
+Logical address: 60086 Phyiscal address: 10678 Value: 58
+Logical address: 42252 Phyiscal address: 10764 Value: 0
+Logical address: 44770 Phyiscal address: 11234 Value: 43
+Logical address: 22514 Phyiscal address: 11506 Value: 21
+Logical address: 3067 Phyiscal address: 11771 Value: -2
+Logical address: 15757 Phyiscal address: 11917 Value: 0
+Logical address: 31649 Phyiscal address: 12193 Value: 0
+Logical address: 10842 Phyiscal address: 12378 Value: 10
+Logical address: 43765 Phyiscal address: 12789 Value: 0
+Logical address: 33405 Phyiscal address: 12925 Value: 0
+Logical address: 44954 Phyiscal address: 13210 Value: 43
+Logical address: 56657 Phyiscal address: 13393 Value: 0
+Logical address: 5003 Phyiscal address: 13707 Value: -30
+Logical address: 50227 Phyiscal address: 13875 Value: 12
+Logical address: 19358 Phyiscal address: 14238 Value: 18
+Logical address: 36529 Phyiscal address: 14513 Value: 0
+Logical address: 10392 Phyiscal address: 14744 Value: 0
+Logical address: 58882 Phyiscal address: 14850 Value: 57
+Logical address: 5129 Phyiscal address: 15113 Value: 0
+Logical address: 58554 Phyiscal address: 15546 Value: 57
+Logical address: 58584 Phyiscal address: 15576 Value: 0
+Logical address: 27444 Phyiscal address: 15668 Value: 0
+Logical address: 58982 Phyiscal address: 14950 Value: 57
+Logical address: 51476 Phyiscal address: 15892 Value: 0
+Logical address: 6796 Phyiscal address: 6796 Value: 0
+Logical address: 21311 Phyiscal address: 9023 Value: -49
+Logical address: 30705 Phyiscal address: 16369 Value: 0
+Logical address: 28964 Phyiscal address: 16420 Value: 0
+Logical address: 41003 Phyiscal address: 8747 Value: 10
+Logical address: 20259 Phyiscal address: 16675 Value: -56
+Logical address: 57857 Phyiscal address: 3073 Value: 0
+Logical address: 63258 Phyiscal address: 16922 Value: 61
+Logical address: 36374 Phyiscal address: 14358 Value: 35
+Logical address: 692 Phyiscal address: 17332 Value: 0
+Logical address: 43121 Phyiscal address: 17521 Value: 0
+Logical address: 48128 Phyiscal address: 17664 Value: 0
+Logical address: 34561 Phyiscal address: 17921 Value: 0
+Logical address: 49213 Phyiscal address: 8509 Value: 0
+Logical address: 36922 Phyiscal address: 18234 Value: 36
+Logical address: 59162 Phyiscal address: 10266 Value: 57
+Logical address: 50552 Phyiscal address: 18552 Value: 0
+Logical address: 17866 Phyiscal address: 9930 Value: 17
+Logical address: 18145 Phyiscal address: 18913 Value: 0
+Logical address: 3884 Phyiscal address: 18988 Value: 0
+Logical address: 54388 Phyiscal address: 19316 Value: 0
+Logical address: 42932 Phyiscal address: 19636 Value: 0
+Logical address: 46919 Phyiscal address: 19783 Value: -47
+Logical address: 58892 Phyiscal address: 14860 Value: 0
+Logical address: 8620 Phyiscal address: 20140 Value: 0
+Logical address: 38336 Phyiscal address: 20416 Value: 0
+Logical address: 64357 Phyiscal address: 4965 Value: 0
+Logical address: 23387 Phyiscal address: 20571 Value: -42
+Logical address: 42632 Phyiscal address: 20872 Value: 0
+Logical address: 15913 Phyiscal address: 21033 Value: 0
+Logical address: 15679 Phyiscal address: 11839 Value: 79
+Logical address: 22501 Phyiscal address: 11493 Value: 0
+Logical address: 37540 Phyiscal address: 21412 Value: 0
+Logical address: 5527 Phyiscal address: 21655 Value: 101
+Logical address: 63921 Phyiscal address: 21937 Value: 0
+Logical address: 62716 Phyiscal address: 508 Value: 0
+Logical address: 32874 Phyiscal address: 4202 Value: 32
+Logical address: 64390 Phyiscal address: 4998 Value: 62
+Logical address: 63101 Phyiscal address: 22141 Value: 0
+Logical address: 61802 Phyiscal address: 22378 Value: 60
+Logical address: 19648 Phyiscal address: 22720 Value: 0
+Logical address: 29031 Phyiscal address: 16487 Value: 89
+Logical address: 44981 Phyiscal address: 13237 Value: 0
+Logical address: 28092 Phyiscal address: 3516 Value: 0
+Logical address: 9448 Phyiscal address: 23016 Value: 0
+Logical address: 44744 Phyiscal address: 11208 Value: 0
+Logical address: 61496 Phyiscal address: 23096 Value: 0
+Logical address: 31453 Phyiscal address: 23517 Value: 0
+Logical address: 60746 Phyiscal address: 23626 Value: 59
+Logical address: 12199 Phyiscal address: 2727 Value: -23
+Logical address: 62255 Phyiscal address: 23855 Value: -53
+Logical address: 21793 Phyiscal address: 24097 Value: 0
+Logical address: 26544 Phyiscal address: 24496 Value: 0
+Logical address: 14964 Phyiscal address: 24692 Value: 0
+Logical address: 41462 Phyiscal address: 25078 Value: 40
+Logical address: 56089 Phyiscal address: 25113 Value: 0
+Logical address: 52038 Phyiscal address: 25414 Value: 50
+Logical address: 47982 Phyiscal address: 25710 Value: 46
+Logical address: 59484 Phyiscal address: 25948 Value: 0
+Logical address: 50924 Phyiscal address: 26348 Value: 0
+Logical address: 6942 Phyiscal address: 26398 Value: 6
+Logical address: 34998 Phyiscal address: 26806 Value: 34
+Logical address: 27069 Phyiscal address: 27069 Value: 0
+Logical address: 51926 Phyiscal address: 27350 Value: 50
+Logical address: 60645 Phyiscal address: 7397 Value: 0
+Logical address: 43181 Phyiscal address: 17581 Value: 0
+Logical address: 10559 Phyiscal address: 27455 Value: 79
+Logical address: 4664 Phyiscal address: 27704 Value: 0
+Logical address: 28578 Phyiscal address: 28066 Value: 27
+Logical address: 59516 Phyiscal address: 25980 Value: 0
+Logical address: 38912 Phyiscal address: 3840 Value: 0
+Logical address: 63562 Phyiscal address: 28234 Value: 62
+Logical address: 64846 Phyiscal address: 2126 Value: 63
+Logical address: 62938 Phyiscal address: 28634 Value: 61
+Logical address: 27194 Phyiscal address: 28730 Value: 26
+Logical address: 28804 Phyiscal address: 1412 Value: 0
+Logical address: 61703 Phyiscal address: 22279 Value: 65
+Logical address: 10998 Phyiscal address: 12534 Value: 10
+Logical address: 6596 Phyiscal address: 29124 Value: 0
+Logical address: 37721 Phyiscal address: 29273 Value: 0
+Logical address: 43430 Phyiscal address: 29606 Value: 42
+Logical address: 22692 Phyiscal address: 2980 Value: 0
+Logical address: 62971 Phyiscal address: 28667 Value: 126
+Logical address: 47125 Phyiscal address: 29717 Value: 0
+Logical address: 52521 Phyiscal address: 29993 Value: 0
+Logical address: 34646 Phyiscal address: 18006 Value: 33
+Logical address: 32889 Phyiscal address: 4217 Value: 0
+Logical address: 13055 Phyiscal address: 30463 Value: -65
+Logical address: 65416 Phyiscal address: 30600 Value: 0
+Logical address: 62869 Phyiscal address: 28565 Value: 0
+Logical address: 57314 Phyiscal address: 30946 Value: 55
+Logical address: 12659 Phyiscal address: 31091 Value: 92
+Logical address: 14052 Phyiscal address: 31460 Value: 0
+Logical address: 32956 Phyiscal address: 4284 Value: 0
+Logical address: 49273 Phyiscal address: 8569 Value: 0
+Logical address: 50352 Phyiscal address: 14000 Value: 0
+Logical address: 49737 Phyiscal address: 31561 Value: 0
+Logical address: 15555 Phyiscal address: 31939 Value: 48
+Logical address: 47475 Phyiscal address: 32115 Value: 92
+Logical address: 15328 Phyiscal address: 32480 Value: 0
+Logical address: 34621 Phyiscal address: 17981 Value: 0
+Logical address: 51365 Phyiscal address: 32677 Value: 0
+Logical address: 32820 Phyiscal address: 4148 Value: 0
+Logical address: 48855 Phyiscal address: 215 Value: -75
+Logical address: 12224 Phyiscal address: 2752 Value: 0
+Logical address: 2035 Phyiscal address: 755 Value: -4
+Logical address: 60539 Phyiscal address: 7291 Value: 30
+Logical address: 14595 Phyiscal address: 771 Value: 64
+Logical address: 13853 Phyiscal address: 31261 Value: 0
+Logical address: 24143 Phyiscal address: 1615 Value: -109
+Logical address: 15216 Phyiscal address: 32368 Value: 0
+Logical address: 8113 Phyiscal address: 1969 Value: 0
+Logical address: 22640 Phyiscal address: 2928 Value: 0
+Logical address: 32978 Phyiscal address: 4306 Value: 32
+Logical address: 39151 Phyiscal address: 4079 Value: 59
+Logical address: 19520 Phyiscal address: 22592 Value: 0
+Logical address: 58141 Phyiscal address: 2333 Value: 0
+Logical address: 63959 Phyiscal address: 21975 Value: 117
+Logical address: 53040 Phyiscal address: 3632 Value: 0
+Logical address: 55842 Phyiscal address: 4386 Value: 54
+Logical address: 585 Phyiscal address: 17225 Value: 0
+Logical address: 51229 Phyiscal address: 32541 Value: 0
+Logical address: 64181 Phyiscal address: 4789 Value: 0
+Logical address: 54879 Phyiscal address: 5215 Value: -105
+Logical address: 28210 Phyiscal address: 5426 Value: 27
+Logical address: 10268 Phyiscal address: 14620 Value: 0
+Logical address: 15395 Phyiscal address: 31779 Value: 8
+Logical address: 12884 Phyiscal address: 30292 Value: 0
+Logical address: 2149 Phyiscal address: 5733 Value: 0
+Logical address: 53483 Phyiscal address: 6123 Value: 58
+Logical address: 59606 Phyiscal address: 26070 Value: 58
+Logical address: 14981 Phyiscal address: 24709 Value: 0
+Logical address: 36672 Phyiscal address: 6208 Value: 0
+Logical address: 23197 Phyiscal address: 6557 Value: 0
+Logical address: 36518 Phyiscal address: 14502 Value: 35
+Logical address: 13361 Phyiscal address: 6961 Value: 0
+Logical address: 19810 Phyiscal address: 7522 Value: 19
+Logical address: 25955 Phyiscal address: 7779 Value: 88
+Logical address: 62678 Phyiscal address: 470 Value: 61
+Logical address: 26021 Phyiscal address: 7845 Value: 0
+Logical address: 29409 Phyiscal address: 8161 Value: 0
+Logical address: 38111 Phyiscal address: 8415 Value: 55
+Logical address: 58573 Phyiscal address: 15565 Value: 0
+Logical address: 56840 Phyiscal address: 9224 Value: 0
+Logical address: 41306 Phyiscal address: 24922 Value: 40
+Logical address: 54426 Phyiscal address: 19354 Value: 53
+Logical address: 3617 Phyiscal address: 10017 Value: 0
+Logical address: 50652 Phyiscal address: 18652 Value: 0
+Logical address: 41452 Phyiscal address: 25068 Value: 0
+Logical address: 20241 Phyiscal address: 16657 Value: 0
+Logical address: 31723 Phyiscal address: 12267 Value: -6
+Logical address: 53747 Phyiscal address: 9715 Value: 124
+Logical address: 28550 Phyiscal address: 28038 Value: 27
+Logical address: 23402 Phyiscal address: 20586 Value: 22
+Logical address: 21205 Phyiscal address: 1237 Value: 0
+Logical address: 56181 Phyiscal address: 25205 Value: 0
+Logical address: 57470 Phyiscal address: 10622 Value: 56
+Logical address: 39933 Phyiscal address: 11005 Value: 0
+Logical address: 34964 Phyiscal address: 26772 Value: 0
+Logical address: 24781 Phyiscal address: 11725 Value: 0
+Logical address: 41747 Phyiscal address: 12563 Value: -60
+Logical address: 62564 Phyiscal address: 356 Value: 0
+Logical address: 58461 Phyiscal address: 15453 Value: 0
+Logical address: 20858 Phyiscal address: 12922 Value: 20
+Logical address: 49301 Phyiscal address: 8597 Value: 0
+Logical address: 40572 Phyiscal address: 13436 Value: 0
+Logical address: 23840 Phyiscal address: 13600 Value: 0
+Logical address: 35278 Phyiscal address: 14286 Value: 34
+Logical address: 62905 Phyiscal address: 28601 Value: 0
+Logical address: 56650 Phyiscal address: 15178 Value: 55
+Logical address: 11149 Phyiscal address: 15757 Value: 0
+Logical address: 38920 Phyiscal address: 3848 Value: 0
+Logical address: 23430 Phyiscal address: 20614 Value: 22
+Logical address: 57592 Phyiscal address: 10744 Value: 0
+Logical address: 3080 Phyiscal address: 15880 Value: 0
+Logical address: 6677 Phyiscal address: 6677 Value: 0
+Logical address: 50704 Phyiscal address: 26128 Value: 0
+Logical address: 51883 Phyiscal address: 27307 Value: -86
+Logical address: 62799 Phyiscal address: 28495 Value: 83
+Logical address: 20188 Phyiscal address: 9180 Value: 0
+Logical address: 1245 Phyiscal address: 16349 Value: 0
+Logical address: 12220 Phyiscal address: 2748 Value: 0
+Logical address: 17602 Phyiscal address: 8898 Value: 17
+Logical address: 28609 Phyiscal address: 28097 Value: 0
+Logical address: 42694 Phyiscal address: 20934 Value: 41
+Logical address: 29826 Phyiscal address: 3202 Value: 29
+Logical address: 13827 Phyiscal address: 31235 Value: -128
+Logical address: 27336 Phyiscal address: 28872 Value: 0
+Logical address: 53343 Phyiscal address: 5983 Value: 23
+Logical address: 11533 Phyiscal address: 16909 Value: 0
+Logical address: 41713 Phyiscal address: 17905 Value: 0
+Logical address: 33890 Phyiscal address: 18274 Value: 33
+Logical address: 4894 Phyiscal address: 10270 Value: 4
+Logical address: 57599 Phyiscal address: 10751 Value: 63
+Logical address: 3870 Phyiscal address: 18974 Value: 3
+Logical address: 58622 Phyiscal address: 15614 Value: 57
+Logical address: 29780 Phyiscal address: 3156 Value: 0
+Logical address: 62553 Phyiscal address: 345 Value: 0
+Logical address: 2303 Phyiscal address: 5887 Value: 63
+Logical address: 51915 Phyiscal address: 27339 Value: -78
+Logical address: 6251 Phyiscal address: 9835 Value: 26
+Logical address: 38107 Phyiscal address: 8411 Value: 54
+Logical address: 59325 Phyiscal address: 18877 Value: 0
+Logical address: 61295 Phyiscal address: 19567 Value: -37
+Logical address: 26699 Phyiscal address: 19787 Value: 18
+Logical address: 51188 Phyiscal address: 15092 Value: 0
+Logical address: 59519 Phyiscal address: 25983 Value: 31
+Logical address: 7345 Phyiscal address: 20145 Value: 0
+Logical address: 20325 Phyiscal address: 16741 Value: 0
+Logical address: 39633 Phyiscal address: 20433 Value: 0
+Logical address: 1562 Phyiscal address: 21018 Value: 1
+Logical address: 7580 Phyiscal address: 11932 Value: 0
+Logical address: 8170 Phyiscal address: 2026 Value: 7
+Logical address: 62256 Phyiscal address: 23856 Value: 0
+Logical address: 35823 Phyiscal address: 11503 Value: -5
+Logical address: 27790 Phyiscal address: 21390 Value: 27
+Logical address: 13191 Phyiscal address: 21639 Value: -31
+Logical address: 9772 Phyiscal address: 4908 Value: 0
+Logical address: 7477 Phyiscal address: 11829 Value: 0
+Logical address: 44455 Phyiscal address: 22183 Value: 105
+Logical address: 59546 Phyiscal address: 26010 Value: 58
+Logical address: 49347 Phyiscal address: 8643 Value: 48
+Logical address: 36539 Phyiscal address: 14523 Value: -82
+Logical address: 12453 Phyiscal address: 16549 Value: 0
+Logical address: 49640 Phyiscal address: 13288 Value: 0
+Logical address: 28290 Phyiscal address: 5506 Value: 27
+Logical address: 44817 Phyiscal address: 3345 Value: 0
+Logical address: 8565 Phyiscal address: 22901 Value: 0
+Logical address: 16399 Phyiscal address: 11023 Value: 3
+Logical address: 41934 Phyiscal address: 12750 Value: 40
+Logical address: 45457 Phyiscal address: 23185 Value: 0
+Logical address: 33856 Phyiscal address: 18240 Value: 0
+Logical address: 19498 Phyiscal address: 22570 Value: 19
+Logical address: 17661 Phyiscal address: 8957 Value: 0
+Logical address: 63829 Phyiscal address: 21845 Value: 0
+Logical address: 42034 Phyiscal address: 23346 Value: 41
+Logical address: 28928 Phyiscal address: 23552 Value: 0
+Logical address: 30711 Phyiscal address: 24311 Value: -3
+Logical address: 8800 Phyiscal address: 24416 Value: 0
+Logical address: 52335 Phyiscal address: 25455 Value: 27
+Logical address: 38775 Phyiscal address: 25719 Value: -35
+Logical address: 52704 Phyiscal address: 30176 Value: 0
+Logical address: 24380 Phyiscal address: 26428 Value: 0
+Logical address: 19602 Phyiscal address: 22674 Value: 19
+Logical address: 57998 Phyiscal address: 27022 Value: 56
+Logical address: 2919 Phyiscal address: 17511 Value: -39
+Logical address: 8362 Phyiscal address: 27562 Value: 8
+Logical address: 17884 Phyiscal address: 27868 Value: 0
+Logical address: 45737 Phyiscal address: 28329 Value: 0
+Logical address: 47894 Phyiscal address: 2070 Value: 46
+Logical address: 59667 Phyiscal address: 1299 Value: 68
+Logical address: 10385 Phyiscal address: 14737 Value: 0
+Logical address: 52782 Phyiscal address: 22318 Value: 51
+Logical address: 64416 Phyiscal address: 12448 Value: 0
+Logical address: 40946 Phyiscal address: 29170 Value: 39
+Logical address: 16778 Phyiscal address: 29322 Value: 16
+Logical address: 27159 Phyiscal address: 28695 Value: -123
+Logical address: 24324 Phyiscal address: 26372 Value: 0
+Logical address: 32450 Phyiscal address: 29634 Value: 31
+Logical address: 9108 Phyiscal address: 29844 Value: 0
+Logical address: 65305 Phyiscal address: 30489 Value: 0
+Logical address: 19575 Phyiscal address: 22647 Value: 29
+Logical address: 11117 Phyiscal address: 15725 Value: 0
+Logical address: 65170 Phyiscal address: 30866 Value: 63
+Logical address: 58013 Phyiscal address: 27037 Value: 0
+Logical address: 61676 Phyiscal address: 31212 Value: 0
+Logical address: 63510 Phyiscal address: 13846 Value: 62
+Logical address: 17458 Phyiscal address: 8754 Value: 17
+Logical address: 54675 Phyiscal address: 31635 Value: 100
+Logical address: 1713 Phyiscal address: 21169 Value: 0
+Logical address: 55105 Phyiscal address: 32065 Value: 0
+Logical address: 65321 Phyiscal address: 30505 Value: 0
+Logical address: 45278 Phyiscal address: 18142 Value: 44
+Logical address: 26256 Phyiscal address: 144 Value: 0
+Logical address: 64198 Phyiscal address: 4806 Value: 62
+Logical address: 29441 Phyiscal address: 513 Value: 0
+Logical address: 1928 Phyiscal address: 7304 Value: 0
+Logical address: 39425 Phyiscal address: 20225 Value: 0
+Logical address: 32000 Phyiscal address: 768 Value: 0
+Logical address: 28549 Phyiscal address: 28037 Value: 0
+Logical address: 46295 Phyiscal address: 1751 Value: 53
+Logical address: 22772 Phyiscal address: 3060 Value: 0
+Logical address: 58228 Phyiscal address: 2420 Value: 0
+Logical address: 63525 Phyiscal address: 13861 Value: 0
+Logical address: 32602 Phyiscal address: 32346 Value: 31
+Logical address: 46195 Phyiscal address: 1651 Value: 28
+Logical address: 55849 Phyiscal address: 4393 Value: 0
+Logical address: 46454 Phyiscal address: 4214 Value: 45
+Logical address: 7487 Phyiscal address: 11839 Value: 79
+Logical address: 33879 Phyiscal address: 18263 Value: 21
+Logical address: 42004 Phyiscal address: 23316 Value: 0
+Logical address: 8599 Phyiscal address: 22935 Value: 101
+Logical address: 18641 Phyiscal address: 3793 Value: 0
+Logical address: 49015 Phyiscal address: 17271 Value: -35
+Logical address: 26830 Phyiscal address: 19918 Value: 26
+Logical address: 34754 Phyiscal address: 32706 Value: 33
+Logical address: 14668 Phyiscal address: 5196 Value: 0
+Logical address: 38362 Phyiscal address: 31962 Value: 37
+Logical address: 38791 Phyiscal address: 25735 Value: -31
+Logical address: 4171 Phyiscal address: 30283 Value: 18
+Logical address: 45975 Phyiscal address: 24727 Value: -27
+Logical address: 14623 Phyiscal address: 5151 Value: 71
+Logical address: 62393 Phyiscal address: 23993 Value: 0
+Logical address: 64658 Phyiscal address: 6290 Value: 63
+Logical address: 10963 Phyiscal address: 6611 Value: -76
+Logical address: 9058 Phyiscal address: 29794 Value: 8
+Logical address: 51031 Phyiscal address: 14935 Value: -43
+Logical address: 32425 Phyiscal address: 29609 Value: 0
+Logical address: 45483 Phyiscal address: 23211 Value: 106
+Logical address: 44611 Phyiscal address: 6979 Value: -112
+Logical address: 63664 Phyiscal address: 14000 Value: 0
+Logical address: 54920 Phyiscal address: 7560 Value: 0
+Logical address: 7663 Phyiscal address: 12015 Value: 123
+Logical address: 56480 Phyiscal address: 7840 Value: 0
+Logical address: 1489 Phyiscal address: 8145 Value: 0
+Logical address: 28438 Phyiscal address: 27926 Value: 27
+Logical address: 65449 Phyiscal address: 30633 Value: 0
+Logical address: 12441 Phyiscal address: 16537 Value: 0
+Logical address: 58530 Phyiscal address: 15522 Value: 57
+Logical address: 63570 Phyiscal address: 13906 Value: 62
+Logical address: 26251 Phyiscal address: 139 Value: -94
+Logical address: 15972 Phyiscal address: 9316 Value: 0
+Logical address: 35826 Phyiscal address: 11506 Value: 34
+Logical address: 5491 Phyiscal address: 19315 Value: 92
+Logical address: 54253 Phyiscal address: 10221 Value: 0
+Logical address: 49655 Phyiscal address: 13303 Value: 125
+Logical address: 5868 Phyiscal address: 18668 Value: 0
+Logical address: 20163 Phyiscal address: 9155 Value: -80
+Logical address: 51079 Phyiscal address: 14983 Value: -31
+Logical address: 21398 Phyiscal address: 24982 Value: 20
+Logical address: 32756 Phyiscal address: 32500 Value: 0
+Logical address: 64196 Phyiscal address: 4804 Value: 0
+Logical address: 43218 Phyiscal address: 12242 Value: 42
+Logical address: 21583 Phyiscal address: 9551 Value: 19
+Logical address: 25086 Phyiscal address: 1278 Value: 24
+Logical address: 45515 Phyiscal address: 23243 Value: 114
+Logical address: 12893 Phyiscal address: 25181 Value: 0
+Logical address: 22914 Phyiscal address: 10882 Value: 22
+Logical address: 58969 Phyiscal address: 26713 Value: 0
+Logical address: 20094 Phyiscal address: 9086 Value: 19
+Logical address: 13730 Phyiscal address: 11682 Value: 13
+Logical address: 44059 Phyiscal address: 12827 Value: 6
+Logical address: 28931 Phyiscal address: 23555 Value: 64
+Logical address: 13533 Phyiscal address: 13533 Value: 0
+Logical address: 33134 Phyiscal address: 13678 Value: 32
+Logical address: 28483 Phyiscal address: 27971 Value: -48
+Logical address: 1220 Phyiscal address: 16324 Value: 0
+Logical address: 38174 Phyiscal address: 31774 Value: 37
+Logical address: 53502 Phyiscal address: 6142 Value: 52
+Logical address: 43328 Phyiscal address: 14144 Value: 0
+Logical address: 4970 Phyiscal address: 10346 Value: 4
+Logical address: 8090 Phyiscal address: 1946 Value: 7
+Logical address: 2661 Phyiscal address: 15205 Value: 0
+Logical address: 53903 Phyiscal address: 3983 Value: -93
+Logical address: 11025 Phyiscal address: 15633 Value: 0
+Logical address: 26627 Phyiscal address: 19715 Value: 0
+Logical address: 18117 Phyiscal address: 20677 Value: 0
+Logical address: 14505 Phyiscal address: 16041 Value: 0
+Logical address: 61528 Phyiscal address: 31064 Value: 0
+Logical address: 20423 Phyiscal address: 16839 Value: -15
+Logical address: 26962 Phyiscal address: 6738 Value: 26
+Logical address: 36392 Phyiscal address: 14376 Value: 0
+Logical address: 11365 Phyiscal address: 26213 Value: 0
+Logical address: 50882 Phyiscal address: 28610 Value: 49
+Logical address: 41668 Phyiscal address: 17860 Value: 0
+Logical address: 30497 Phyiscal address: 24097 Value: 0
+Logical address: 36216 Phyiscal address: 2680 Value: 0
+Logical address: 5619 Phyiscal address: 19443 Value: 124
+Logical address: 36983 Phyiscal address: 20855 Value: 29
+Logical address: 59557 Phyiscal address: 26021 Value: 0
+Logical address: 36663 Phyiscal address: 31287 Value: -51
+Logical address: 36436 Phyiscal address: 14420 Value: 0
+Logical address: 37057 Phyiscal address: 20929 Value: 0
+Logical address: 23585 Phyiscal address: 16929 Value: 0
+Logical address: 58791 Phyiscal address: 10663 Value: 105
+Logical address: 46666 Phyiscal address: 19018 Value: 45
+Logical address: 64475 Phyiscal address: 12507 Value: -10
+Logical address: 21615 Phyiscal address: 9583 Value: 27
+Logical address: 41090 Phyiscal address: 3202 Value: 40
+Logical address: 1771 Phyiscal address: 21227 Value: -70
+Logical address: 47513 Phyiscal address: 409 Value: 0
+Logical address: 39338 Phyiscal address: 5802 Value: 38
+Logical address: 1390 Phyiscal address: 8046 Value: 1
+Logical address: 38772 Phyiscal address: 25716 Value: 0
+Logical address: 58149 Phyiscal address: 2341 Value: 0
+Logical address: 7196 Phyiscal address: 19996 Value: 0
+Logical address: 9123 Phyiscal address: 29859 Value: -24
+Logical address: 7491 Phyiscal address: 11843 Value: 80
+Logical address: 62616 Phyiscal address: 27288 Value: 0
+Logical address: 15436 Phyiscal address: 9804 Value: 0
+Logical address: 17491 Phyiscal address: 8787 Value: 20
+Logical address: 53656 Phyiscal address: 8344 Value: 0
+Logical address: 26449 Phyiscal address: 18769 Value: 0
+Logical address: 34935 Phyiscal address: 19575 Value: 29
+Logical address: 19864 Phyiscal address: 21400 Value: 0
+Logical address: 51388 Phyiscal address: 21692 Value: 0
+Logical address: 15155 Phyiscal address: 4915 Value: -52
+Logical address: 64775 Phyiscal address: 22023 Value: 65
+Logical address: 47969 Phyiscal address: 2145 Value: 0
+Logical address: 16315 Phyiscal address: 8635 Value: -18
+Logical address: 1342 Phyiscal address: 7998 Value: 1
+Logical address: 51185 Phyiscal address: 15089 Value: 0
+Logical address: 6043 Phyiscal address: 5531 Value: -26
+Logical address: 21398 Phyiscal address: 24982 Value: 20
+Logical address: 3273 Phyiscal address: 3529 Value: 0
+Logical address: 9370 Phyiscal address: 11162 Value: 9
+Logical address: 35463 Phyiscal address: 12679 Value: -95
+Logical address: 28205 Phyiscal address: 21805 Value: 0
+Logical address: 2351 Phyiscal address: 24367 Value: 75
+Logical address: 28999 Phyiscal address: 23623 Value: 81
+Logical address: 47699 Phyiscal address: 25427 Value: -108
+Logical address: 46870 Phyiscal address: 29974 Value: 45
+Logical address: 22311 Phyiscal address: 17447 Value: -55
+Logical address: 22124 Phyiscal address: 27500 Value: 0
+Logical address: 22427 Phyiscal address: 17563 Value: -26
+Logical address: 49344 Phyiscal address: 27840 Value: 0
+Logical address: 23224 Phyiscal address: 28344 Value: 0
+Logical address: 5514 Phyiscal address: 19338 Value: 5
+Logical address: 20504 Phyiscal address: 1304 Value: 0
+Logical address: 376 Phyiscal address: 14712 Value: 0
+Logical address: 2014 Phyiscal address: 7390 Value: 1
+Logical address: 38700 Phyiscal address: 25644 Value: 0
+Logical address: 13098 Phyiscal address: 22314 Value: 12
+Logical address: 62435 Phyiscal address: 24035 Value: -8
+Logical address: 48046 Phyiscal address: 2222 Value: 46
+Logical address: 63464 Phyiscal address: 29160 Value: 0
+Logical address: 12798 Phyiscal address: 29438 Value: 12
+Logical address: 51178 Phyiscal address: 15082 Value: 49
+Logical address: 8627 Phyiscal address: 22963 Value: 108
+Logical address: 27083 Phyiscal address: 6859 Value: 114
+Logical address: 47198 Phyiscal address: 28766 Value: 46
+Logical address: 44021 Phyiscal address: 26613 Value: 0
+Logical address: 32792 Phyiscal address: 22552 Value: 0
+Logical address: 43996 Phyiscal address: 26588 Value: 0
+Logical address: 41126 Phyiscal address: 3238 Value: 40
+Logical address: 64244 Phyiscal address: 4852 Value: 0
+Logical address: 37047 Phyiscal address: 20919 Value: 45
+Logical address: 60281 Phyiscal address: 30841 Value: 0
+Logical address: 52904 Phyiscal address: 27048 Value: 0
+Logical address: 7768 Phyiscal address: 31576 Value: 0
+Logical address: 55359 Phyiscal address: 32063 Value: 15
+Logical address: 3230 Phyiscal address: 3486 Value: 3
+Logical address: 44813 Phyiscal address: 17933 Value: 0
+Logical address: 4116 Phyiscal address: 30228 Value: 0
+Logical address: 65222 Phyiscal address: 710 Value: 63
+Logical address: 28083 Phyiscal address: 20403 Value: 108
+Logical address: 60660 Phyiscal address: 1012 Value: 0
+Logical address: 39 Phyiscal address: 2855 Value: 9
+Logical address: 328 Phyiscal address: 14664 Value: 0
+Logical address: 47868 Phyiscal address: 25596 Value: 0
+Logical address: 13009 Phyiscal address: 25297 Value: 0
+Logical address: 22378 Phyiscal address: 17514 Value: 21
+Logical address: 39304 Phyiscal address: 5768 Value: 0
+Logical address: 11171 Phyiscal address: 15779 Value: -24
+Logical address: 8079 Phyiscal address: 1935 Value: -29
+Logical address: 52879 Phyiscal address: 27023 Value: -93
+Logical address: 5123 Phyiscal address: 1539 Value: 0
+Logical address: 4356 Phyiscal address: 4356 Value: 0
+Logical address: 45745 Phyiscal address: 4273 Value: 0
+Logical address: 32952 Phyiscal address: 22712 Value: 0
+Logical address: 4657 Phyiscal address: 18225 Value: 0
+Logical address: 24142 Phyiscal address: 23374 Value: 23
+Logical address: 23319 Phyiscal address: 3607 Value: -59
+Logical address: 13607 Phyiscal address: 11559 Value: 73
+Logical address: 46304 Phyiscal address: 17376 Value: 0
+Logical address: 17677 Phyiscal address: 32525 Value: 0
+Logical address: 59691 Phyiscal address: 24619 Value: 74
+Logical address: 50967 Phyiscal address: 14871 Value: -59
+Logical address: 7817 Phyiscal address: 31625 Value: 0
+Logical address: 8545 Phyiscal address: 22881 Value: 0
+Logical address: 55297 Phyiscal address: 32001 Value: 0
+Logical address: 52954 Phyiscal address: 27098 Value: 51
+Logical address: 39720 Phyiscal address: 5160 Value: 0
+Logical address: 18455 Phyiscal address: 6167 Value: 5
+Logical address: 30349 Phyiscal address: 6541 Value: 0
+Logical address: 63270 Phyiscal address: 28966 Value: 61
+Logical address: 27156 Phyiscal address: 29460 Value: 0
+Logical address: 20614 Phyiscal address: 1414 Value: 20
+Logical address: 19372 Phyiscal address: 7084 Value: 0
+Logical address: 48689 Phyiscal address: 7473 Value: 0
+Logical address: 49386 Phyiscal address: 27882 Value: 48
+Logical address: 50584 Phyiscal address: 7832 Value: 0
+Logical address: 51936 Phyiscal address: 30688 Value: 0
+Logical address: 34705 Phyiscal address: 16529 Value: 0
+Logical address: 13653 Phyiscal address: 11605 Value: 0
+Logical address: 50077 Phyiscal address: 15517 Value: 0
+Logical address: 54518 Phyiscal address: 14070 Value: 53
+Logical address: 41482 Phyiscal address: 17674 Value: 40
+Logical address: 4169 Phyiscal address: 30281 Value: 0
+Logical address: 36118 Phyiscal address: 2582 Value: 35
+Logical address: 9584 Phyiscal address: 112 Value: 0
+Logical address: 18490 Phyiscal address: 6202 Value: 18
+Logical address: 55420 Phyiscal address: 32124 Value: 0
+Logical address: 5708 Phyiscal address: 18508 Value: 0
+Logical address: 23506 Phyiscal address: 3794 Value: 22
+Logical address: 15391 Phyiscal address: 9759 Value: 7
+Logical address: 36368 Phyiscal address: 14352 Value: 0
+Logical address: 38976 Phyiscal address: 9280 Value: 0
+Logical address: 50406 Phyiscal address: 11494 Value: 49
+Logical address: 49236 Phyiscal address: 27732 Value: 0
+Logical address: 65035 Phyiscal address: 523 Value: -126
+Logical address: 30120 Phyiscal address: 10152 Value: 0
+Logical address: 62551 Phyiscal address: 27223 Value: 21
+Logical address: 46809 Phyiscal address: 19161 Value: 0
+Logical address: 21687 Phyiscal address: 9655 Value: 45
+Logical address: 53839 Phyiscal address: 3919 Value: -109
+Logical address: 2098 Phyiscal address: 13106 Value: 2
+Logical address: 12364 Phyiscal address: 32332 Value: 0
+Logical address: 45366 Phyiscal address: 23094 Value: 44
+Logical address: 50437 Phyiscal address: 7685 Value: 0
+Logical address: 36675 Phyiscal address: 31299 Value: -48
+Logical address: 55382 Phyiscal address: 32086 Value: 54
+Logical address: 11846 Phyiscal address: 12102 Value: 11
+Logical address: 49127 Phyiscal address: 1255 Value: -7
+Logical address: 19900 Phyiscal address: 21436 Value: 0
+Logical address: 20554 Phyiscal address: 1354 Value: 20
+Logical address: 19219 Phyiscal address: 6931 Value: -60
+Logical address: 51483 Phyiscal address: 10779 Value: 70
+Logical address: 58090 Phyiscal address: 26858 Value: 56
+Logical address: 39074 Phyiscal address: 9378 Value: 38
+Logical address: 16060 Phyiscal address: 9148 Value: 0
+Logical address: 10447 Phyiscal address: 13007 Value: 51
+Logical address: 54169 Phyiscal address: 13465 Value: 0
+Logical address: 20634 Phyiscal address: 1434 Value: 20
+Logical address: 57555 Phyiscal address: 13779 Value: 52
+Logical address: 61210 Phyiscal address: 27930 Value: 59
+Logical address: 269 Phyiscal address: 14605 Value: 0
+Logical address: 33154 Phyiscal address: 16258 Value: 32
+Logical address: 64487 Phyiscal address: 12519 Value: -7
+Logical address: 61223 Phyiscal address: 27943 Value: -55
+Logical address: 47292 Phyiscal address: 28860 Value: 0
+Logical address: 21852 Phyiscal address: 31836 Value: 0
+Logical address: 5281 Phyiscal address: 1697 Value: 0
+Logical address: 45912 Phyiscal address: 5976 Value: 0
+Logical address: 32532 Phyiscal address: 14100 Value: 0
+Logical address: 63067 Phyiscal address: 10331 Value: -106
+Logical address: 41683 Phyiscal address: 17875 Value: -76
+Logical address: 20981 Phyiscal address: 15349 Value: 0
+Logical address: 33881 Phyiscal address: 19801 Value: 0
+Logical address: 41785 Phyiscal address: 20537 Value: 0
+Logical address: 4580 Phyiscal address: 4580 Value: 0
+Logical address: 41389 Phyiscal address: 16045 Value: 0
+Logical address: 28572 Phyiscal address: 31132 Value: 0
+Logical address: 782 Phyiscal address: 16654 Value: 0
+Logical address: 30273 Phyiscal address: 6465 Value: 0
+Logical address: 62267 Phyiscal address: 23867 Value: -50
+Logical address: 17922 Phyiscal address: 26114 Value: 17
+Logical address: 63238 Phyiscal address: 28934 Value: 61
+Logical address: 3308 Phyiscal address: 3564 Value: 0
+Logical address: 26545 Phyiscal address: 18865 Value: 0
+Logical address: 44395 Phyiscal address: 28523 Value: 90
+Logical address: 39120 Phyiscal address: 9424 Value: 0
+Logical address: 21706 Phyiscal address: 9674 Value: 21
+Logical address: 7144 Phyiscal address: 24296 Value: 0
+Logical address: 30244 Phyiscal address: 6436 Value: 0
+Logical address: 3725 Phyiscal address: 25997 Value: 0
+Logical address: 54632 Phyiscal address: 17000 Value: 0
+Logical address: 30574 Phyiscal address: 10606 Value: 29
+Logical address: 8473 Phyiscal address: 22809 Value: 0
+Logical address: 12386 Phyiscal address: 32354 Value: 12
+Logical address: 41114 Phyiscal address: 3226 Value: 40
+Logical address: 57930 Phyiscal address: 26698 Value: 56
+Logical address: 15341 Phyiscal address: 5101 Value: 0
+Logical address: 15598 Phyiscal address: 9966 Value: 15
+Logical address: 59922 Phyiscal address: 21010 Value: 58
+Logical address: 18226 Phyiscal address: 306 Value: 17
+Logical address: 48162 Phyiscal address: 2338 Value: 47
+Logical address: 41250 Phyiscal address: 15906 Value: 40
+Logical address: 1512 Phyiscal address: 8168 Value: 0
+Logical address: 2546 Phyiscal address: 24562 Value: 2
+Logical address: 41682 Phyiscal address: 17874 Value: 40
+Logical address: 322 Phyiscal address: 14658 Value: 0
+Logical address: 880 Phyiscal address: 16752 Value: 0
+Logical address: 20891 Phyiscal address: 15259 Value: 102
+Logical address: 56604 Phyiscal address: 19996 Value: 0
+Logical address: 40166 Phyiscal address: 29926 Value: 39
+Logical address: 26791 Phyiscal address: 11943 Value: 41
+Logical address: 44560 Phyiscal address: 8720 Value: 0
+Logical address: 38698 Phyiscal address: 25642 Value: 37
+Logical address: 64127 Phyiscal address: 4735 Value: -97
+Logical address: 15028 Phyiscal address: 8372 Value: 0
+Logical address: 38669 Phyiscal address: 25613 Value: 0
+Logical address: 45637 Phyiscal address: 4165 Value: 0
+Logical address: 43151 Phyiscal address: 19599 Value: 35
+Logical address: 9465 Phyiscal address: 11257 Value: 0
+Logical address: 2498 Phyiscal address: 24514 Value: 2
+Logical address: 13978 Phyiscal address: 21658 Value: 13
+Logical address: 16326 Phyiscal address: 8646 Value: 15
+Logical address: 51442 Phyiscal address: 22258 Value: 50
+Logical address: 34845 Phyiscal address: 5405 Value: 0
+Logical address: 63667 Phyiscal address: 25011 Value: 44
+Logical address: 39370 Phyiscal address: 5834 Value: 38
+Logical address: 55671 Phyiscal address: 12663 Value: 93
+Logical address: 64496 Phyiscal address: 12528 Value: 0
+Logical address: 7767 Phyiscal address: 31575 Value: -107
+Logical address: 6283 Phyiscal address: 21899 Value: 34
+Logical address: 55884 Phyiscal address: 23628 Value: 0
+Logical address: 61103 Phyiscal address: 30127 Value: -85
+Logical address: 10184 Phyiscal address: 27592 Value: 0
+Logical address: 39543 Phyiscal address: 28279 Value: -99
+Logical address: 9555 Phyiscal address: 83 Value: 84
+Logical address: 13963 Phyiscal address: 21643 Value: -94
+Logical address: 58975 Phyiscal address: 19295 Value: -105
+Logical address: 19537 Phyiscal address: 7249 Value: 0
+Logical address: 6101 Phyiscal address: 22485 Value: 0
+Logical address: 41421 Phyiscal address: 16077 Value: 0
+Logical address: 45502 Phyiscal address: 23230 Value: 44
+Logical address: 29328 Phyiscal address: 2192 Value: 0
+Logical address: 8149 Phyiscal address: 2005 Value: 0
+Logical address: 25450 Phyiscal address: 29290 Value: 24
+Logical address: 58944 Phyiscal address: 19264 Value: 0
+Logical address: 50666 Phyiscal address: 7914 Value: 49
+Logical address: 23084 Phyiscal address: 6700 Value: 0
+Logical address: 36468 Phyiscal address: 14452 Value: 0
+Logical address: 33645 Phyiscal address: 26477 Value: 0
+Logical address: 25002 Phyiscal address: 20906 Value: 24
+Logical address: 53715 Phyiscal address: 30931 Value: 116
+Logical address: 60173 Phyiscal address: 17933 Value: 0
+Logical address: 46354 Phyiscal address: 20242 Value: 45
+Logical address: 4708 Phyiscal address: 18276 Value: 0
+Logical address: 28208 Phyiscal address: 816 Value: 0
+Logical address: 58844 Phyiscal address: 3036 Value: 0
+Logical address: 22173 Phyiscal address: 25501 Value: 0
+Logical address: 8535 Phyiscal address: 22871 Value: 85
+Logical address: 42261 Phyiscal address: 25109 Value: 0
+Logical address: 29687 Phyiscal address: 17655 Value: -3
+Logical address: 37799 Phyiscal address: 15783 Value: -23
+Logical address: 22566 Phyiscal address: 22566 Value: 22
+Logical address: 62520 Phyiscal address: 27192 Value: 0
+Logical address: 4098 Phyiscal address: 30210 Value: 4
+Logical address: 47999 Phyiscal address: 23423 Value: -33
+Logical address: 49660 Phyiscal address: 17404 Value: 0
+Logical address: 37063 Phyiscal address: 32711 Value: 49
+Logical address: 41856 Phyiscal address: 20608 Value: 0
+Logical address: 5417 Phyiscal address: 24617 Value: 0
+Logical address: 48856 Phyiscal address: 7640 Value: 0
+Logical address: 10682 Phyiscal address: 15034 Value: 10
+Logical address: 22370 Phyiscal address: 26978 Value: 21
+Logical address: 63281 Phyiscal address: 28977 Value: 0
+Logical address: 62452 Phyiscal address: 24052 Value: 0
+Logical address: 50532 Phyiscal address: 7780 Value: 0
+Logical address: 9022 Phyiscal address: 5182 Value: 8
+Logical address: 59300 Phyiscal address: 29604 Value: 0
+Logical address: 58660 Phyiscal address: 2852 Value: 0
+Logical address: 56401 Phyiscal address: 30545 Value: 0
+Logical address: 8518 Phyiscal address: 22854 Value: 8
+Logical address: 63066 Phyiscal address: 10330 Value: 61
+Logical address: 63250 Phyiscal address: 28946 Value: 61
+Logical address: 48592 Phyiscal address: 16592 Value: 0
+Logical address: 28771 Phyiscal address: 11619 Value: 24
+Logical address: 37673 Phyiscal address: 15657 Value: 0
+Logical address: 60776 Phyiscal address: 15464 Value: 0
+Logical address: 56438 Phyiscal address: 30582 Value: 55
+Logical address: 60424 Phyiscal address: 13832 Value: 0
+Logical address: 39993 Phyiscal address: 29753 Value: 0
+Logical address: 56004 Phyiscal address: 23748 Value: 0
+Logical address: 59002 Phyiscal address: 19322 Value: 57
+Logical address: 33982 Phyiscal address: 19902 Value: 33
+Logical address: 25498 Phyiscal address: 29338 Value: 24
+Logical address: 57047 Phyiscal address: 2775 Value: -75
+Logical address: 1401 Phyiscal address: 8057 Value: 0
+Logical address: 15130 Phyiscal address: 4890 Value: 14
+Logical address: 42960 Phyiscal address: 6352 Value: 0
+Logical address: 61827 Phyiscal address: 18563 Value: 96
+Logical address: 32442 Phyiscal address: 3770 Value: 31
+Logical address: 64304 Phyiscal address: 12336 Value: 0
+Logical address: 30273 Phyiscal address: 6465 Value: 0
+Logical address: 38082 Phyiscal address: 11458 Value: 37
+Logical address: 22404 Phyiscal address: 27012 Value: 0
+Logical address: 3808 Phyiscal address: 26080 Value: 0
+Logical address: 16883 Phyiscal address: 27891 Value: 124
+Logical address: 23111 Phyiscal address: 6727 Value: -111
+Logical address: 62417 Phyiscal address: 24017 Value: 0
+Logical address: 60364 Phyiscal address: 18124 Value: 0
+Logical address: 4542 Phyiscal address: 4542 Value: 4
+Logical address: 14829 Phyiscal address: 749 Value: 0
+Logical address: 44964 Phyiscal address: 10148 Value: 0
+Logical address: 33924 Phyiscal address: 19844 Value: 0
+Logical address: 2141 Phyiscal address: 13149 Value: 0
+Logical address: 19245 Phyiscal address: 6957 Value: 0
+Logical address: 47168 Phyiscal address: 28736 Value: 0
+Logical address: 24048 Phyiscal address: 19184 Value: 0
+Logical address: 1022 Phyiscal address: 16894 Value: 0
+Logical address: 23075 Phyiscal address: 6691 Value: -120
+Logical address: 24888 Phyiscal address: 20792 Value: 0
+Logical address: 49247 Phyiscal address: 3935 Value: 23
+Logical address: 4900 Phyiscal address: 31268 Value: 0
+Logical address: 22656 Phyiscal address: 22656 Value: 0
+Logical address: 34117 Phyiscal address: 32069 Value: 0
+Logical address: 55555 Phyiscal address: 12547 Value: 64
+Logical address: 48947 Phyiscal address: 1075 Value: -52
+Logical address: 59533 Phyiscal address: 12173 Value: 0
+Logical address: 21312 Phyiscal address: 21312 Value: 0
+Logical address: 21415 Phyiscal address: 21415 Value: -23
+Logical address: 813 Phyiscal address: 16685 Value: 0
+Logical address: 19419 Phyiscal address: 7131 Value: -10
+Logical address: 1999 Phyiscal address: 10959 Value: -13
+Logical address: 20155 Phyiscal address: 9147 Value: -82
+Logical address: 21521 Phyiscal address: 9489 Value: 0
+Logical address: 13670 Phyiscal address: 12902 Value: 13
+Logical address: 19289 Phyiscal address: 7001 Value: 0
+Logical address: 58483 Phyiscal address: 13427 Value: 28
+Logical address: 41318 Phyiscal address: 15974 Value: 40
+Logical address: 16151 Phyiscal address: 8471 Value: -59
+Logical address: 13611 Phyiscal address: 12843 Value: 74
+Logical address: 21514 Phyiscal address: 9482 Value: 21
+Logical address: 13499 Phyiscal address: 1467 Value: 46
+Logical address: 45583 Phyiscal address: 4111 Value: -125
+Logical address: 49013 Phyiscal address: 1141 Value: 0
+Logical address: 64843 Phyiscal address: 13643 Value: 82
+Logical address: 63485 Phyiscal address: 29181 Value: 0
+Logical address: 38697 Phyiscal address: 25641 Value: 0
+Logical address: 59188 Phyiscal address: 29492 Value: 0
+Logical address: 24593 Phyiscal address: 16145 Value: 0
+Logical address: 57641 Phyiscal address: 27945 Value: 0
+Logical address: 36524 Phyiscal address: 14508 Value: 0
+Logical address: 56980 Phyiscal address: 2708 Value: 0
+Logical address: 36810 Phyiscal address: 31946 Value: 35
+Logical address: 6096 Phyiscal address: 22480 Value: 0
+Logical address: 11070 Phyiscal address: 1598 Value: 10
+Logical address: 60124 Phyiscal address: 21212 Value: 0
+Logical address: 37576 Phyiscal address: 6088 Value: 0
+Logical address: 15096 Phyiscal address: 8440 Value: 0
+Logical address: 45247 Phyiscal address: 14271 Value: 47
+Logical address: 32783 Phyiscal address: 30991 Value: 3
+Logical address: 58390 Phyiscal address: 13334 Value: 57
+Logical address: 60873 Phyiscal address: 15561 Value: 0
+Logical address: 23719 Phyiscal address: 26279 Value: 41
+Logical address: 24385 Phyiscal address: 3393 Value: 0
+Logical address: 22307 Phyiscal address: 26915 Value: -56
+Logical address: 17375 Phyiscal address: 18911 Value: -9
+Logical address: 15990 Phyiscal address: 28534 Value: 15
+Logical address: 20526 Phyiscal address: 9262 Value: 20
+Logical address: 25904 Phyiscal address: 24112 Value: 0
+Logical address: 42224 Phyiscal address: 17136 Value: 0
+Logical address: 9311 Phyiscal address: 11103 Value: 23
+Logical address: 7862 Phyiscal address: 31670 Value: 7
+Logical address: 3835 Phyiscal address: 26107 Value: -66
+Logical address: 30535 Phyiscal address: 10567 Value: -47
+Logical address: 65179 Phyiscal address: 32411 Value: -90
+Logical address: 57387 Phyiscal address: 3115 Value: 10
+Logical address: 63579 Phyiscal address: 24923 Value: 22
+Logical address: 4946 Phyiscal address: 31314 Value: 4
+Logical address: 9037 Phyiscal address: 5197 Value: 0
+Logical address: 61033 Phyiscal address: 30057 Value: 0
+Logical address: 55543 Phyiscal address: 26871 Value: 61
+Logical address: 50361 Phyiscal address: 9913 Value: 0
+Logical address: 6480 Phyiscal address: 336 Value: 0
+Logical address: 14042 Phyiscal address: 21722 Value: 13
+Logical address: 21531 Phyiscal address: 9499 Value: 6
+Logical address: 39195 Phyiscal address: 5659 Value: 70
+Logical address: 37511 Phyiscal address: 6023 Value: -95
+Logical address: 23696 Phyiscal address: 26256 Value: 0
+Logical address: 27440 Phyiscal address: 2352 Value: 0
+Logical address: 28201 Phyiscal address: 809 Value: 0
+Logical address: 23072 Phyiscal address: 6688 Value: 0
+Logical address: 7814 Phyiscal address: 31622 Value: 7
+Logical address: 6552 Phyiscal address: 408 Value: 0
+Logical address: 43637 Phyiscal address: 17781 Value: 0
+Logical address: 35113 Phyiscal address: 14633 Value: 0
+Logical address: 34890 Phyiscal address: 5450 Value: 34
+Logical address: 61297 Phyiscal address: 15217 Value: 0
+Logical address: 45633 Phyiscal address: 4161 Value: 0
+Logical address: 61431 Phyiscal address: 15351 Value: -3
+Logical address: 46032 Phyiscal address: 20176 Value: 0
+Logical address: 18774 Phyiscal address: 11862 Value: 18
+Logical address: 62991 Phyiscal address: 10255 Value: -125
+Logical address: 28059 Phyiscal address: 8859 Value: 102
+Logical address: 35229 Phyiscal address: 14749 Value: 0
+Logical address: 51230 Phyiscal address: 22046 Value: 50
+Logical address: 14405 Phyiscal address: 4677 Value: 0
+Logical address: 52242 Phyiscal address: 19474 Value: 51
+Logical address: 43153 Phyiscal address: 24465 Value: 0
+Logical address: 2709 Phyiscal address: 21909 Value: 0
+Logical address: 47963 Phyiscal address: 23387 Value: -42
+Logical address: 36943 Phyiscal address: 32591 Value: 19
+Logical address: 54066 Phyiscal address: 27442 Value: 52
+Logical address: 10054 Phyiscal address: 28230 Value: 9
+Logical address: 43051 Phyiscal address: 24363 Value: 10
+Logical address: 11525 Phyiscal address: 5 Value: 0
+Logical address: 17684 Phyiscal address: 7188 Value: 0
+Logical address: 41681 Phyiscal address: 23249 Value: 0
+Logical address: 27883 Phyiscal address: 2283 Value: 58
+Logical address: 56909 Phyiscal address: 2637 Value: 0
+Logical address: 45772 Phyiscal address: 4300 Value: 0
+Logical address: 27496 Phyiscal address: 2408 Value: 0
+Logical address: 46842 Phyiscal address: 2042 Value: 45
+Logical address: 38734 Phyiscal address: 25678 Value: 37
+Logical address: 28972 Phyiscal address: 26412 Value: 0
+Logical address: 59684 Phyiscal address: 30756 Value: 0
+Logical address: 11384 Phyiscal address: 20344 Value: 0
+Logical address: 21018 Phyiscal address: 18202 Value: 20
+Logical address: 2192 Phyiscal address: 13200 Value: 0
+Logical address: 18384 Phyiscal address: 25552 Value: 0
+Logical address: 13464 Phyiscal address: 1432 Value: 0
+Logical address: 31018 Phyiscal address: 25130 Value: 30
+Logical address: 62958 Phyiscal address: 17646 Value: 61
+Logical address: 30611 Phyiscal address: 10643 Value: -28
+Logical address: 1913 Phyiscal address: 10873 Value: 0
+Logical address: 18904 Phyiscal address: 11992 Value: 0
+Logical address: 26773 Phyiscal address: 27285 Value: 0
+Logical address: 55491 Phyiscal address: 26819 Value: 48
+Logical address: 21899 Phyiscal address: 30347 Value: 98
+Logical address: 64413 Phyiscal address: 12445 Value: 0
+Logical address: 47134 Phyiscal address: 28702 Value: 46
+Logical address: 23172 Phyiscal address: 6788 Value: 0
+Logical address: 7262 Phyiscal address: 17246 Value: 7
+Logical address: 12705 Phyiscal address: 20641 Value: 0
+Logical address: 7522 Phyiscal address: 24674 Value: 7
+Logical address: 58815 Phyiscal address: 3007 Value: 111
+Logical address: 34916 Phyiscal address: 5476 Value: 0
+Logical address: 3802 Phyiscal address: 26074 Value: 3
+Logical address: 58008 Phyiscal address: 7576 Value: 0
+Logical address: 1239 Phyiscal address: 15063 Value: 53
+Logical address: 63947 Phyiscal address: 7883 Value: 114
+Logical address: 381 Phyiscal address: 22909 Value: 0
+Logical address: 60734 Phyiscal address: 15422 Value: 59
+Logical address: 48769 Phyiscal address: 16513 Value: 0
+Logical address: 41938 Phyiscal address: 11730 Value: 40
+Logical address: 38025 Phyiscal address: 11401 Value: 0
+Logical address: 55099 Phyiscal address: 15675 Value: -50
+Logical address: 56691 Phyiscal address: 30579 Value: 92
+Logical address: 39530 Phyiscal address: 13930 Value: 38
+Logical address: 59003 Phyiscal address: 19323 Value: -98
+Logical address: 6029 Phyiscal address: 22413 Value: 0
+Logical address: 20920 Phyiscal address: 29880 Value: 0
+Logical address: 8077 Phyiscal address: 23693 Value: 0
+Logical address: 42633 Phyiscal address: 29321 Value: 0
+Logical address: 17443 Phyiscal address: 7971 Value: 8
+Logical address: 53570 Phyiscal address: 4930 Value: 52
+Logical address: 22833 Phyiscal address: 6193 Value: 0
+Logical address: 3782 Phyiscal address: 26054 Value: 3
+Logical address: 47758 Phyiscal address: 18574 Value: 46
+Logical address: 22136 Phyiscal address: 3704 Value: 0
+Logical address: 22427 Phyiscal address: 27035 Value: -26
+Logical address: 23867 Phyiscal address: 19003 Value: 78
+Logical address: 59968 Phyiscal address: 21056 Value: 0
+Logical address: 62166 Phyiscal address: 6614 Value: 60
+Logical address: 6972 Phyiscal address: 27708 Value: 0
+Logical address: 63684 Phyiscal address: 25028 Value: 0
+Logical address: 46388 Phyiscal address: 23860 Value: 0
+Logical address: 41942 Phyiscal address: 11734 Value: 40
+Logical address: 36524 Phyiscal address: 14508 Value: 0
+Logical address: 9323 Phyiscal address: 11115 Value: 26
+Logical address: 31114 Phyiscal address: 25226 Value: 30
+Logical address: 22345 Phyiscal address: 26953 Value: 0
+Logical address: 46463 Phyiscal address: 23935 Value: 95
+Logical address: 54671 Phyiscal address: 18063 Value: 99
+Logical address: 9214 Phyiscal address: 5374 Value: 8
+Logical address: 7257 Phyiscal address: 17241 Value: 0
+Logical address: 33150 Phyiscal address: 4478 Value: 32
+Logical address: 41565 Phyiscal address: 23133 Value: 0
+Logical address: 26214 Phyiscal address: 614 Value: 25
+Logical address: 3595 Phyiscal address: 25867 Value: -126
+Logical address: 17932 Phyiscal address: 9996 Value: 0
+Logical address: 34660 Phyiscal address: 19812 Value: 0
+Logical address: 51961 Phyiscal address: 20985 Value: 0
+Logical address: 58634 Phyiscal address: 2826 Value: 57
+Logical address: 57990 Phyiscal address: 7558 Value: 56
+Logical address: 28848 Phyiscal address: 4016 Value: 0
+Logical address: 49920 Phyiscal address: 22528 Value: 0
+Logical address: 18351 Phyiscal address: 25519 Value: -21
+Logical address: 53669 Phyiscal address: 5029 Value: 0
+Logical address: 33996 Phyiscal address: 32204 Value: 0
+Logical address: 6741 Phyiscal address: 12629 Value: 0
+Logical address: 64098 Phyiscal address: 12130 Value: 62
+Logical address: 606 Phyiscal address: 21342 Value: 0
+Logical address: 27383 Phyiscal address: 16887 Value: -67
+Logical address: 63140 Phyiscal address: 10404 Value: 0
+Logical address: 32228 Phyiscal address: 9188 Value: 0
+Logical address: 63437 Phyiscal address: 29133 Value: 0
+Logical address: 29085 Phyiscal address: 26525 Value: 0
+Logical address: 65080 Phyiscal address: 32312 Value: 0
+Logical address: 38753 Phyiscal address: 25697 Value: 0
+Logical address: 16041 Phyiscal address: 28585 Value: 0
+Logical address: 9041 Phyiscal address: 5201 Value: 0
+Logical address: 42090 Phyiscal address: 17002 Value: 41
+Logical address: 46388 Phyiscal address: 23860 Value: 0
+Logical address: 63650 Phyiscal address: 24994 Value: 62
+Logical address: 36636 Phyiscal address: 31772 Value: 0
+Logical address: 21947 Phyiscal address: 30395 Value: 110
+Logical address: 19833 Phyiscal address: 7033 Value: 0
+Logical address: 36464 Phyiscal address: 14448 Value: 0
+Logical address: 8541 Phyiscal address: 15965 Value: 0
+Logical address: 12712 Phyiscal address: 20648 Value: 0
+Logical address: 48955 Phyiscal address: 1083 Value: -50
+Logical address: 39206 Phyiscal address: 5670 Value: 38
+Logical address: 15578 Phyiscal address: 8666 Value: 15
+Logical address: 49205 Phyiscal address: 12853 Value: 0
+Logical address: 7731 Phyiscal address: 31539 Value: -116
+Logical address: 43046 Phyiscal address: 24358 Value: 42
+Logical address: 60498 Phyiscal address: 13650 Value: 59
+Logical address: 9237 Phyiscal address: 11029 Value: 0
+Logical address: 47706 Phyiscal address: 18522 Value: 46
+Logical address: 43973 Phyiscal address: 29637 Value: 0
+Logical address: 42008 Phyiscal address: 16920 Value: 0
+Logical address: 27460 Phyiscal address: 2372 Value: 0
+Logical address: 24999 Phyiscal address: 16295 Value: 105
+Logical address: 51933 Phyiscal address: 20957 Value: 0
+Logical address: 34070 Phyiscal address: 27926 Value: 33
+Logical address: 65155 Phyiscal address: 32387 Value: -96
+Logical address: 59955 Phyiscal address: 21043 Value: -116
+Logical address: 9277 Phyiscal address: 11069 Value: 0
+Logical address: 20420 Phyiscal address: 1732 Value: 0
+Logical address: 44860 Phyiscal address: 8252 Value: 0
+Logical address: 50992 Phyiscal address: 14128 Value: 0
+Logical address: 10583 Phyiscal address: 31063 Value: 85
+Logical address: 57751 Phyiscal address: 13463 Value: 101
+Logical address: 23195 Phyiscal address: 6811 Value: -90
+Logical address: 27227 Phyiscal address: 16731 Value: -106
+Logical address: 42816 Phyiscal address: 3392 Value: 0
+Logical address: 58219 Phyiscal address: 18795 Value: -38
+Logical address: 37606 Phyiscal address: 6118 Value: 36
+Logical address: 18426 Phyiscal address: 25594 Value: 17
+Logical address: 21238 Phyiscal address: 18422 Value: 20
+Logical address: 11983 Phyiscal address: 9423 Value: -77
+Logical address: 48394 Phyiscal address: 24074 Value: 47
+Logical address: 11036 Phyiscal address: 3100 Value: 0
+Logical address: 30557 Phyiscal address: 10589 Value: 0
+Logical address: 23453 Phyiscal address: 31389 Value: 0
+Logical address: 49847 Phyiscal address: 30135 Value: -83
+Logical address: 30032 Phyiscal address: 9808 Value: 0
+Logical address: 48065 Phyiscal address: 23489 Value: 0
+Logical address: 6957 Phyiscal address: 27693 Value: 0
+Logical address: 2301 Phyiscal address: 13309 Value: 0
+Logical address: 7736 Phyiscal address: 31544 Value: 0
+Logical address: 31260 Phyiscal address: 21532 Value: 0
+Logical address: 17071 Phyiscal address: 9647 Value: -85
+Logical address: 8940 Phyiscal address: 26348 Value: 0
+Logical address: 9929 Phyiscal address: 969 Value: 0
+Logical address: 45563 Phyiscal address: 507 Value: 126
+Logical address: 12107 Phyiscal address: 17739 Value: -46

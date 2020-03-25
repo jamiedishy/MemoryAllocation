@@ -18,7 +18,7 @@ int mem_index = 0;
 int counter = 1;
 
 int page_faults = 0;
-int tlb_hits = 0;
+int tlb_hits = 1;
 // int total_counter = 0;
 
 char buffer[256];
@@ -50,7 +50,7 @@ int main()
         printf("Error no backing storage\n");
     }
 
-    physical_address_file_pointer = fopen("out.txt", "w");
+    physical_address_file_pointer = fopen("output.csv", "w");
 
     init();
 
@@ -152,13 +152,9 @@ int main()
             }
         }
 
-        fprintf(physical_address_file_pointer, "logical: %d,", virtual_address);
-        fprintf(physical_address_file_pointer, " physical: %d,", physical_address);
-        fprintf(physical_address_file_pointer, " byte value: %d\n", value_in_physical_memory);
-
-        // fprintf(physical_address_file_pointer, "Virtual address: %d", virtual_address);
-        // fprintf(physical_address_file_pointer, " Phyiscal address: %d", physical_address);
-        // fprintf(physical_address_file_pointer, " Value: %d\n", value_in_physical_memory);
+        fprintf(physical_address_file_pointer, "Logical address: %d", virtual_address);
+        fprintf(physical_address_file_pointer, " Phyiscal address: %d", physical_address);
+        fprintf(physical_address_file_pointer, " Value: %d\n", value_in_physical_memory);
     }
     printf("Page Faults = %d\n", page_faults);
     printf("TLB Hits = %d\n", tlb_hits);
