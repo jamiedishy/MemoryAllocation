@@ -1,7 +1,3 @@
-## Design and Implementation of a Virtual Memory Unit (MMU)
-**Out:** March 9, 2020    
-**Due:** April 3, 2020, at 11:59pm
-
 This project consists of writing a program that translates logical to physical addresses for a virtual address space of 
 size 2<sup>16</sup> = 65,536 bytes. Your program will read from a file containing logical addresses and, using a TLB and a page 
 table, will translate each logical address to its corresponding physical address and output the value of the byte stored 
@@ -10,11 +6,6 @@ logical to physical addresses. This will include resolving page faults using dem
 implementing a page-replacement algorithm.
 
 ### Details
-Your program will read a file containing several 32-bit integer numbers that represent logical addresses. However, 
-you need only be concerned with 16- bit addresses, so you must mask the rightmost 16 bits of each logical address. 
-These 16 bits are divided into (1) an 8-bit page number and (2) an 8-bit page offset. Hence, the addresses are 
-structured as shown as:
-
 <!-- ![Virtual Address](./figs/address.png) -->
 <img src="./figs/address.png" alt="alt text" width="500">
 
@@ -32,12 +23,6 @@ addresses and translating them to their corresponding physical addresses. You do
 logical address space.
 
 ### Address Translation
-
-Your program will translate logical to physical addresses using a TLB and page table as outlined in Section 9.3. First, 
-the page number is extracted from the logical address, and the TLB is consulted. In the case of a TLB hit, the frame
-number is obtained from the TLB. In the case of a TLB miss, the page table must be consulted. In the latter case, either
-the frame number is obtained from the page table, or a page fault occurs. A visual representation of the address-translation 
-process is:
 
 <img src="./figs/vmm.png" alt="alt text" width="800">
 
@@ -58,27 +43,12 @@ of the virtual address space, i.e., 65,536 bytes, so you do not need to be conce
 we describe a modification to this project using a smaller amount of physical memory; at that point, a page-replacement 
 strategy will be required.
 
+
 ### Test Files Located in StartKit
 We provide the file `addresses.txt`, which contains integer values representing logical addresses ranging from 0 to 65535 
 (the size of the virtual address space). Your program will open this file, read each logical address and translate it to 
 its corresponding physical address, and output the value of the signed byte at the physical address.
 
-### How to Begin
-First, write a simple program that extracts the page number and offset based on:
-
-<img src="./figs/address.png" alt="alt text" width="500">
-
-from the following integer numbers: 
-```
-1, 256, 32768, 32769, 128, 65534, 33153
-```
-
-Perhaps the easiest way to do this is by using the operators for bit-masking and bit-shifting. Once you can correctly 
-establish the page number and offset from an integer number, you are ready to begin. Initially, we suggest that you 
-bypass the TLB and use only a page table. You can integrate the TLB once your page table is working properly. Remember, 
-address translation can work without a TLB; the TLB just makes it faster. When you are ready to implement the TLB, 
-recall that it has only sixteen entries, so you will need to use a replacement strategy when you update a full TLB. 
-FIFO policy should be used for updating the TLB.
 
 ### Page Replacement
 Thus far, this project has assumed that physical memory is the same size as the virtual address space.
@@ -88,32 +58,7 @@ your program so that it keeps track of free page frames as well as implementing 
 LRU (Section 10.4) to resolve page faults when there is no free memory.
 
 
-### How to Run Your Program
-You should edit the `test.sh` file to run your program. By doing so, your program will read in the file `addresses.txt`, 
-which contains 1,000 logical addresses ranging from 0 to 65535. 
-Your program is to translate each logical address to a physical address and determine the contents of the signed byte 
-stored at the correct physical address. (Recall that in the C language, the char data type occupies a byte of storage, 
-so we suggest using char values.)
-
-Your program is to output the following values:
-
-1. The logical address being translated (the integer value being read from `addresses.txt`).
-2. The corresponding physical address (what your program translates the logical address to).
-3. The signed byte value stored in physical memory at the translated physical address.
-
-We also provide the file `correct.txt`, which contains the correct output
-values for the file `addresses.txt`. You should use this file to determine if your program is correctly translating 
-logical to physical addresses.
-
 ### Statistics 
 After completion, your program is to report the following statistics:
 1. Page-fault rate: the percentage of address references that resulted in page faults.
 2. TLB hit rate: the percentage of address references that were resolved in the TLB.
-
-Since the logical addresses in `addresses.txt` were generated randomly and do not reflect any memory access locality, 
-do not expect to have a low TLB hit rate.
-
-### Deliverables
-Submit a zip file containing all files that are required to build and run the project. 
-This includes the `StartKit`, even if you didn't change anything, the `C` source codes, and your `test.sh` file. 
-Please do not submit object files (*.o) or compiled executables.
